@@ -37,6 +37,7 @@ def get_blocklist() -> None:
             if url.startswith('www.'):
                 url = url.replace('www.', '')
 
+            url = url.strip()
             url = f'||{url}^'
             domains.add(url)
 
