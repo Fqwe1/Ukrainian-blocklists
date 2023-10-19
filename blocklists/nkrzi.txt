@@ -2,7 +2,6 @@
 ||0744.live^
 ||1303joycasino.com^
 ||1309joycasino.com^
-||19cej5d6n2.stolichnyy-market.org^
 ||1wbmef.top^
 ||1x2bgo.com^
 ||2.2.50zigzag777.com^
@@ -61,14 +60,13 @@
 ||alco-shop.site^
 ||alco-shopnet.biz^
 ||alco-shopnet.com^
-||alco-tetrapak.net^
+||alco-tetrapak.shop^
 ||alco-ukrain.com^
 ||alco-ukraina.com^
 ||alco-ukrayn.com^
 ||alco-ukrayna.com^
 ||alcobar.com.ua^
 ||alcobym.com^
-||alcoduty-club.com^
 ||alcoduty-free.com.ua^
 ||alcoduty.biz.ua^
 ||alcodutyfree.com.ua^
@@ -86,11 +84,11 @@
 ||alcopro.co^
 ||alcopro.com.ua^
 ||alcopro.org^
-||alcopro.pro^
 ||alcopro.site^
 ||alcopub.net^
 ||alcopus.com.ua^
 ||alcoshoping.online^
+||alcoshopstore.com^
 ||alcostars.shop^
 ||alcostars.store^
 ||alcoua.com^
@@ -101,13 +99,12 @@
 ||alko-lavka.com^
 ||alko-lavka.in.ua^
 ||alko-lavka.net^
-||alko-paradise.com.ua^
+||alko-mag.com.ua^
 ||alko-smak.com.ua^
 ||alko-torg.com^
 ||alko-ua.net^
 ||alko-ua.org^
 ||alkodom.com.ua^
-||alkofans.net^
 ||alkogol-v-tetrapakah.com.ua^
 ||alkohol.net.ua^
 ||alkoimperia.com^
@@ -201,6 +198,7 @@
 ||bounty-casino13.com^
 ||bovada.lv^
 ||brainshop.com.ua^
+||brillx21.gg^
 ||brillx25.gg^
 ||buddy.bet^
 ||buh-ua.com.ua^
@@ -531,7 +529,6 @@
 ||jaakcasino.com^
 ||jackpotjill.info^
 ||jackpotvillage.com^
-||jelzin-shopp.com^
 ||jelzinvodka.shop^
 ||jet.casino^
 ||jetbull.com^
@@ -616,7 +613,6 @@
 ||like-social.net^
 ||likesid.com^
 ||likos.com.ua^
-||linktr.ee^
 ||liturgia.org.ua^
 ||ll.lv^
 ||login-ggbet.com.ua^
@@ -809,16 +805,17 @@
 ||promo.nj.betmgm.com^
 ||proovl.com^
 ||prskill.ru^
-||pseniychnay.net^
 ||psenychka.com.ua^
 ||psenychna.net^
 ||psenyichka.com.ua^
 ||psenyichna.net^
+||psenyschna.com^
 ||pshenichna-vodka-kiev.com^
 ||pshenichna.shop^
 ||pshenichnay-vodka-kiev.com^
 ||pshenichnay-vodka-kyev.com^
 ||pshenichnaya-vodka-kiev.com^
+||pshenichnaya-vodka-kiyv.biz^
 ||pshenichnaya-vodka-kiyv.com^
 ||pshenichnaya.shop^
 ||ptclick.com.ua^
@@ -897,6 +894,7 @@
 ||sigarety.com^
 ||sigiopt.me^
 ||sigiopt.pw^
+||sigiopt.store^
 ||silkroadcasino.com^
 ||simplecasino.com^
 ||skygames.us^
@@ -917,6 +915,7 @@
 ||smmcraft.ru^
 ||smmpanele.ru^
 ||smmtrend.com^
+||smoke-club.net^
 ||smoke-shop.com.ua^
 ||smotri-ka.com.ua^
 ||sms-activate.org^
@@ -952,7 +951,6 @@
 ||spirt96.org^
 ||spirt96.pro^
 ||spirtclub.com^
-||spirtclub.online^
 ||spirtclub.shop^
 ||spirtclub.site^
 ||spirtik.com.ua^
@@ -962,6 +960,7 @@
 ||spirtopt.com.ua^
 ||spirtopt.top^
 ||spirts-net.pro^
+||spirts.co^
 ||spirts.ltd^
 ||spirts.shop^
 ||spirttrade.com^
@@ -993,7 +992,6 @@
 ||steroid-shop.in.ua^
 ||steroidboss.com.ua^
 ||steroidspace.net^
-||stolichnyy-market.net^
 ||stopmina.com^
 ||street4all.org.ua^
 ||superboss8.com^
@@ -1046,6 +1044,7 @@
 ||ukrfarma.in.ua^
 ||ukrspirt-market.org^
 ||ukrspirt-market.pro^
+||ukrspirt-trade.me^
 ||ukrspirt-trade.online^
 ||ukrspirt-trade.org^
 ||ukrtobacco.com.ua^
