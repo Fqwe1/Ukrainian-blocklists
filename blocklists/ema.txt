@@ -1,3 +1,8 @@
+! Title: EMA Blocklist
+! Source: https://www.ema.com.ua/
+! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
+! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
+! Total number of filters: 1624
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^

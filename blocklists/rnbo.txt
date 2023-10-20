@@ -1,3 +1,8 @@
+! Title: РНБО Blocklist
+! Source: https://uablocklist.com/
+! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
+! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
+! Total number of filters: 395
 ||1tv.com^
 ||1tv.ru^
 ||1tvcrimea.ru^
