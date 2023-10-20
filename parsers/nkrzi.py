@@ -8,6 +8,8 @@ from create import create_blocklist
 # Constants
 URL = 'https://uablocklist.com/blocklist/blocked-sites-nkrzi'
 OUTPUT_FILE = 'nkrzi.txt'
+NAME = 'НКРЗІ Blocklist'
+SOURCE = 'https://uablocklist.com/'
 
 
 async def fetch_data(session: aiohttp.ClientSession, page: int) -> str:
@@ -51,7 +53,7 @@ async def get_blocklist() -> None:
                 domain = f'||{domain}^'
                 domains.add(domain)
 
-    create_blocklist(OUTPUT_FILE, domains)
+    create_blocklist(OUTPUT_FILE, NAME, SOURCE, domains)
 
 
 if __name__ == '__main__':

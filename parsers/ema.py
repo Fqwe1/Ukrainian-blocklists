@@ -6,6 +6,8 @@ from create import create_blocklist
 URL = 'https://www.ema.com.ua/wp-json/api/blacklist-query'
 PARAMS = {'count': '100000'}
 OUTPUT_FILE = 'ema.txt'
+NAME = 'EMA Blocklist'
+SOURCE = 'https://www.ema.com.ua/'
 WHITELIST = {'sites.google.com', 'play.google.com'}
 
 
@@ -44,7 +46,7 @@ def get_blocklist() -> None:
     # Remove whitelisted domains
     domains.difference_update(f'||{site}^' for site in WHITELIST)
 
-    create_blocklist(OUTPUT_FILE, domains)
+    create_blocklist(OUTPUT_FILE, NAME, SOURCE, domains)
 
 
 if __name__ == '__main__':
