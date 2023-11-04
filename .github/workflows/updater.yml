@@ -17,11 +17,14 @@ jobs:
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
 
-            - name: Execute Python scripts
-              run: |
-                  python parsers/rnbo.py
-                  python parsers/nkrzi.py
-                  python parsers/ema.py
+            - name: Update RNBO blocklist
+              run: python parsers/rnbo.py
+
+            - name: Update NKRZI blocklist
+              run: python parsers/nkrzi.py
+
+            - name: Update EMA blocklist
+              run: python parsers/ema.py
 
             - name: Commit files
               run: |
