@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1626
+! Total number of filters: 1628
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -117,6 +117,8 @@
 ||avtorizaciyadankingtelegram.simdif.com^
 ||avtorizaciyaoschadi.simdif.com^
 ||avtorizaciyaoschadid.simdif.com^
+||awsmall.net^
+||awsvip.cc^
 ||aykks.top^
 ||babycar.od.ua^
 ||back.multistream.space^
