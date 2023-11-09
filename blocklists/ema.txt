@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1630
+! Total number of filters: 1631
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -443,6 +443,7 @@
 ||goodstore.in.ua^
 ||gopays.in.ua^
 ||gos-viplata.top^
+||goshoppings01.com^
 ||goturozetka.com^
 ||goturozetka.vip^
 ||gov-ua.fanlnk.to^
