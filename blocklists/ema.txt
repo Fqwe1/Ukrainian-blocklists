@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1633
+! Total number of filters: 1637
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -148,6 +148,7 @@
 ||billetshot.top^
 ||bistrie-viplati.club^
 ||bitcoin-zuba.ga^
+||bitfinecc.com^
 ||blago-kovel.shop^
 ||blago-privat24.3ida.site^
 ||blago-privat24.d3ya.site^
@@ -271,6 +272,7 @@
 ||creditsgo.tech^
 ||creditshome.online^
 ||creditsmix.online^
+||crvearn.com^
 ||csd-lab.com^
 ||csd.c787888.com^
 ||currency-ukraine.com^
@@ -291,6 +293,7 @@
 ||diving-turizm.com^
 ||diya-edopomoga.online^
 ||dl-gos.top^
+||doge-earn.com^
 ||dolidka.top^
 ||domopoga-ua.nopersonexty.online^
 ||dompaidscentr.shop^
@@ -1317,6 +1320,7 @@
 ||rewison.ga^
 ||rfterua.space^
 ||rikter-lor.ru^
+||ringo-bet.net^
 ||rmarket.club^
 ||ross.biz.ua^
 ||royale-casino.net^
