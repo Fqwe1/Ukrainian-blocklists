@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1651
+! Total number of filters: 1659
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -123,6 +123,7 @@
 ||awsmall.net^
 ||awsvip.cc^
 ||aykks.top^
+||azimutheshop.com^
 ||babycar.od.ua^
 ||back.multistream.space^
 ||badge-gos.top^
@@ -169,6 +170,7 @@
 ||bonuspay.com.ua^
 ||boomer-cinema.me^
 ||boomer-cinema.org^
+||bortlaksds.xyz^
 ||botmobi.in.ua^
 ||bow-gos.top^
 ||box-service.com.ua^
@@ -408,6 +410,7 @@
 ||free-oplata.com^
 ||free-zaim.site^
 ||freezar.org^
+||friendly-work.kyiv.ua^
 ||fs-system.ru^
 ||fumeky.xyz^
 ||funpay.ru^
@@ -489,6 +492,7 @@
 ||hit-info.org^
 ||hobbi-ua.com^
 ||holding-pay.com.ua^
+||hollywoodfilmjobs8.com^
 ||homeanimal.site^
 ||homearfes.com^
 ||homeperevotday.com^
@@ -523,6 +527,7 @@
 ||inhibitionfriction.top^
 ||inkassa-24.shop^
 ||inquirypatch.top^
+||intelligence-revolution.tilda.ws^
 ||inter-grein.com^
 ||inter-payment.info^
 ||inter-plus-ua.com^
@@ -1541,9 +1546,11 @@
 ||ukrainehelp.gives^
 ||ukrainehelp.wiki^
 ||ukrainehelps.cloud^
+||ukrainejobs.xyz^
 ||ukraineopross.yolasite.com^
 ||ukrainerozetka.com^
 ||ukrainerozetka.vip^
+||ukrainework.online^
 ||ukrainian-inform.com^
 ||ukrauk.wixsite.com^
 ||ukrcredits.com^
@@ -1564,6 +1571,7 @@
 ||unic-numder.frontime-pro.ru^
 ||united-dopomoga.pro^
 ||united-payment.com.ua^
+||united-work.kyiv.ua^
 ||unix-change.world^
 ||unlgame.com^
 ||unllotto.com^
