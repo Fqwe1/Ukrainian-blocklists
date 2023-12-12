@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1467
+! Total number of filters: 1479
 ||0233.info^
 ||0744.live^
 ||10bet.com^
@@ -30,6 +30,7 @@
 ||32red.com^
 ||365cash.co^
 ||3jvicasino9.com^
+||3litra.shop^
 ||3topora.net^
 ||4.2.12zigzag777.com^
 ||490bets10.com^
@@ -74,9 +75,9 @@
 ||alckomarket.com.ua^
 ||alckomarket.com^
 ||alckoopt.com^
+||alckooptt.com^
 ||alckshop.com^
 ||alco-bar.pro^
-||alco-bar.shop^
 ||alco-bazar.com^
 ||alco-centr.com^
 ||alco-centr.net^
@@ -92,12 +93,12 @@
 ||alco-expert.net^
 ||alco-expert.shop^
 ||alco-korobka.com.ua^
-||alco-life.com^
+||alco-life.shop^
 ||alco-mag.com^
 ||alco-market.com^
+||alco-market.online^
 ||alco-market.pro^
 ||alco-market.top^
-||alco-mir.com.ua^
 ||alco-ok.com^
 ||alco-party.site^
 ||alco-plus.com^
@@ -105,12 +106,12 @@
 ||alco-shop.site^
 ||alco-shopnet.biz^
 ||alco-shopnet.com^
+||alco-shoppingukr.com^
 ||alco-tetrapak-ua.shop^
 ||alco-tetrapak.net^
 ||alco-tetrapak.shop^
 ||alco-trafic.com.ua^
 ||alco-trafic.com^
-||alco-trafic.net^
 ||alco-ua.com^
 ||alco-ua.shop^
 ||alco-ukrain.com^
@@ -138,6 +139,7 @@
 ||alcoexposhop.com^
 ||alcofree.com.ua^
 ||alcogrant.com^
+||alcoholopt.com^
 ||alcohome.com.ua^
 ||alcoimperia.com^
 ||alcolife.net^
@@ -145,7 +147,6 @@
 ||alcomarket.cc^
 ||alcomarket.fun^
 ||alcomarket.online^
-||alcomarket.top^
 ||alcomein.com^
 ||alcomol.com^
 ||alcooptt.com^
@@ -168,6 +169,7 @@
 ||alcoshopstore.com^
 ||alcostars.shop^
 ||alcostars.store^
+||alcostock.net^
 ||alcotraffic.com.ua^
 ||alcotrafic.com.ua^
 ||alcoua.com^
@@ -175,7 +177,6 @@
 ||alexandra.pl.ua^
 ||alishop.kiev.ua^
 ||alk100.in.ua^
-||alka-karobka.com.ua^
 ||alko-duty-bar.store^
 ||alko-duty.com^
 ||alko-dutyfree.com^
@@ -205,6 +206,7 @@
 ||alkohol.net.ua^
 ||alkohome.net.ua^
 ||alkoimperia.com^
+||alkoimperia.net^
 ||alkolavka.shop^
 ||alkomagnat.com.ua^
 ||alkomarket.site^
@@ -218,6 +220,7 @@
 ||alkoshop.pro^
 ||alkoshop.shop^
 ||alkoskop.com^
+||alkoskoponline.com^
 ||alkotorg.pro^
 ||alkotorg.top^
 ||alkoua-ua.com^
@@ -238,6 +241,7 @@
 ||ambal.com.ua^
 ||ambal.in.ua^
 ||ambalshop.com^
+||americanfuturist.net^
 ||andrada.com.ua^
 ||anonymbet.co^
 ||aplav.casino^
@@ -258,7 +262,7 @@
 ||auth.royalvegascasino.com^
 ||auth.rubyfortune.com^
 ||auto-doc.uno^
-||auto-prava.site^
+||auto-store.site^
 ||auto-transfer.pro^
 ||autoflot.com.ua^
 ||autoworks.com.ua^
@@ -349,7 +353,9 @@
 ||brillx19.gg^
 ||brillx21.gg^
 ||brillx25.gg^
+||britishmorris.com^
 ||buddy.bet^
+||buddy1.bet^
 ||budgetnyk1.com.ua^
 ||buh-ua.com.ua^
 ||bus-donetsk.com^
@@ -511,8 +517,8 @@
 ||d-hydra.com^
 ||dachaclub.com.ua^
 ||dailyfashion.com.ua^
-||dark-store.pro^
 ||db-bet7902.top^
+||dety-fee.net.ua^
 ||dhs.com.ua^
 ||dia.org.ua^
 ||diamond7casino.com^
@@ -524,7 +530,6 @@
 ||diya.in.ua^
 ||dlxcasino.com^
 ||docmsater16.cx.ua^
-||docmsater9.cx.ua^
 ||dokymentu.online^
 ||domtabaka.biz^
 ||domtabaka.com.ua^
@@ -570,6 +575,7 @@
 ||ekadrovik.mcfr.ua^
 ||elfbar.com.ua^
 ||elfslots.com^
+||elit-alcohol.com^
 ||elitalcoshop.com^
 ||elite-alcohol.com.ua^
 ||elitsalkohol.com.ua^
@@ -618,6 +624,7 @@
 ||ffdo.com.ua^
 ||finka.bar^
 ||finlandia-31.store^
+||finlandia-3l.store^
 ||finlandiashop.biz^
 ||first-btc.com^
 ||fizzslots4.com^
@@ -677,10 +684,12 @@
 ||goodwin.am^
 ||goodwincasino.com^
 ||goprocasino.com^
+||gorilka40.com^
 ||gorilkaua.com^
 ||gorilochka-ua.net^
 ||gorilochka.com^
 ||gorilochka.shop^
+||gorilocka.com^
 ||gormonrosta.com.ua^
 ||gossipslots.eu^
 ||gowildonlinecasino.com^
@@ -936,7 +945,6 @@
 ||mystake.bet^
 ||mytrashmobile.com^
 ||n-1casino.com^
-||narazliv.online^
 ||nashdonbass.com^
 ||nativity-theotokos.kiev.ua^
 ||naturepro.com.ua^
@@ -952,7 +960,6 @@
 ||novostnik.com.ua^
 ||ntz.online^
 ||nyko.com.ua^
-||obozrevatel.ltd^
 ||obshegitie.org.ua^
 ||ofitsialnyy-sayt-kosmolot.com^
 ||ogolosha.ua^
@@ -966,6 +973,7 @@
 ||online-cosmolot.com.ua^
 ||online-kosmolot.com.ua^
 ||online-play-admiral.net^
+||online.avto-doki.store^
 ||onlinesim.ru^
 ||oodtrk.od.ua^
 ||opendata.avto-prava.store^
@@ -988,7 +996,9 @@
 ||papirosochka.com.ua^
 ||papirosochka.com^
 ||paradisecasino.com^
+||pari.win^
 ||parik24.com^
+||parik2412.com^
 ||parimatch1.com^
 ||partycasino.com^
 ||partypoker.com^
@@ -1046,6 +1056,7 @@
 ||pravda-ua.com^
 ||pravogolosa.net^
 ||premiumdrinks.shop^
+||premiumdrinks.store^
 ||premiumspirt.tilda.ws^
 ||prisoner.com.ua^
 ||proisvol.info^
@@ -1064,6 +1075,7 @@
 ||psenyichna.net^
 ||psenyischna.com^
 ||psenyschna.com^
+||pshenichka.shop^
 ||pshenichna-sleza.top^
 ||pshenichna-vodka-kiev.com^
 ||pshenichna-vodka-kieva.com^
@@ -1108,6 +1120,7 @@
 ||repdev.com.ua^
 ||responsiblegambling.bet365.com^
 ||retivabet.com^
+||rilema.com^
 ||riobet.com^
 ||riobet133.com^
 ||riobet134.com^
@@ -1167,9 +1180,7 @@
 ||siga-sale.com^
 ||sigalvov.com.ua^
 ||sigamir.com.ua^
-||sigapolis.com.ua^
 ||sigara.ua^
-||sigarataua.shop^
 ||sigareta.biz.ua^
 ||sigareti.net.ua^
 ||sigarety-optom.org^
@@ -1245,7 +1256,6 @@
 ||spirt-torg.net^
 ||spirt-torgua.com^
 ||spirt.pro^
-||spirt24.store^
 ||spirt96.co^
 ||spirt96.org^
 ||spirt96.pro^
@@ -1263,6 +1273,7 @@
 ||spirtmarket.com^
 ||spirtmarket.in.ua^
 ||spirtmarket.shop^
+||spirtmarket.store^
 ||spirtmarket.website^
 ||spirtopt.com.ua^
 ||spirtopt.top^
@@ -1330,6 +1341,7 @@
 ||tehnotop.net.ua^
 ||tennisi.tj^
 ||tetra-land.pro^
+||tetra-land.top^
 ||tetramarketshopua.com^
 ||tetramarketshopukr.com.ua^
 ||tetrapack.shop^
@@ -1341,7 +1353,6 @@
 ||time2go.com.ua^
 ||timetodrink.com.ua^
 ||tobacos.com.ua^
-||tobacos.net.ua^
 ||tobacos.net^
 ||tobacos.org^
 ||top-kredo.com.ua^
@@ -1415,6 +1426,7 @@
 ||vodka-lux.store^
 ||vodka-market.shop^
 ||vodka-market.store^
+||vodka10.biz.ua^
 ||volcangames.com^
 ||volna-casino5.com^
 ||vrboutique.com.ua^
