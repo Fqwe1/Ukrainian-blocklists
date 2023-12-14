@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1659
+! Total number of filters: 1663
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -472,6 +472,7 @@
 ||gsmmobi.in.ua^
 ||gsmpay.in.ua^
 ||gsmtime.in.ua^
+||gt770.com^
 ||gtradex.net^
 ||gulf-can.com^
 ||handmadebeads.online^
@@ -1407,6 +1408,7 @@
 ||snasty.shop^
 ||sneakersadi2018.com^
 ||snp-broker.io^
+||socprofile.com^
 ||soctrud.com^
 ||some-gos.top^
 ||sove-gos.top^
@@ -1527,6 +1529,7 @@
 ||uapdvkomp.yolasite.com^
 ||uappl.org^
 ||uashop-goodstore.wixsite.com^
+||ubi-investments.com^
 ||ubi.investments^
 ||ukawar.art.blog^
 ||ukr-garant.com^
@@ -1610,6 +1613,7 @@
 ||wbtheaterchain.vip^
 ||wdcfsfsfgbs.com^
 ||web-payments.com.ua^
+||web.seyrosnpaynhe.website^
 ||webinfom.ru^
 ||weekpaidlife.top^
 ||wegroup.com.ua^
