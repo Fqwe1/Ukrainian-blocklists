@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1663
+! Total number of filters: 1665
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -1455,6 +1455,7 @@
 ||take-your-bonus.top^
 ||talon4benz.com^
 ||taplink.cc^
+||tapy.me^
 ||tascombank.in^
 ||tascombank.online^
 ||tax-compensation.bar^
@@ -1497,6 +1498,7 @@
 ||trade.hermesfx.io^
 ||tradeengine24.ru^
 ||tradevisa.net^
+||trading.ubkplatform.com^
 ||transfer2transfer.tech^
 ||transfercard.net^
 ||transferdeng.top^
