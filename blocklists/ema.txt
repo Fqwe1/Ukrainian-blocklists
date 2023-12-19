@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1665
+! Total number of filters: 1667
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -488,6 +488,7 @@
 ||help-gos.top^
 ||help-ukrain.xyz^
 ||helpukraine.direct^
+||helpukraine24na7.tilda.ws^
 ||hermesfx.io^
 ||hipx.pro^
 ||hit-info.org^
@@ -1615,6 +1616,7 @@
 ||wbtheaterchain.vip^
 ||wdcfsfsfgbs.com^
 ||web-payments.com.ua^
+||web.eebankosdoxla.site^
 ||web.seyrosnpaynhe.website^
 ||webinfom.ru^
 ||weekpaidlife.top^
