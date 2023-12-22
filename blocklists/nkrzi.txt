@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1494
+! Total number of filters: 1515
 ||0233.info^
 ||0744.live^
 ||10bet.com^
@@ -27,7 +27,6 @@
 ||20bet.com^
 ||21casino.com^
 ||24kcasino.com^
-||24novosti-ua.com^
 ||24orca88.com^
 ||32red.com^
 ||365cash.co^
@@ -61,23 +60,27 @@
 ||adc-apteka.com.ua^
 ||adjarabet.com^
 ||agava.com.ua^
+||agro.mcfr.ua^
 ||aid.org.ua^
 ||air.win-now.co^
+||akcenty.com.ua^
 ||alc-ukraina.com^
 ||alc0top.store^
 ||alca-karobka.com^
+||alca-korobka.com.ua^
 ||alca-mag.com^
 ||alca-ukrain.com^
 ||alca-ukraina.com^
 ||alca-ukrayna.com^
-||alca-ykrain.com^
 ||alcatraffic.com.ua^
 ||alcko-opt.com^
+||alckoduty.com^
 ||alckomarket.com.ua^
 ||alckomarket.com^
 ||alckoopt.com^
-||alckooptt.com^
 ||alckshop.com^
+||alco-bar.pro^
+||alco-bar.shop^
 ||alco-bazar.com^
 ||alco-centr.com^
 ||alco-centr.net^
@@ -94,12 +97,9 @@
 ||alco-expert.shop^
 ||alco-korobka.com.ua^
 ||alco-life.com^
-||alco-life.shop^
 ||alco-mag.com^
 ||alco-market.com^
-||alco-market.online^
 ||alco-market.org^
-||alco-market.pro^
 ||alco-market.top^
 ||alco-mir.com.ua^
 ||alco-ok.com^
@@ -112,7 +112,7 @@
 ||alco-shop.site^
 ||alco-shopnet.biz^
 ||alco-shopnet.com^
-||alco-shoppingukr.com^
+||alco-shopua.com^
 ||alco-sklad.com^
 ||alco-tetrapak-ua.shop^
 ||alco-tetrapak.net^
@@ -134,6 +134,7 @@
 ||alcobym.top^
 ||alcoclub.com.ua^
 ||alcodrive.net^
+||alcodrive.pro^
 ||alcoduty-club.com^
 ||alcoduty-free.com.ua^
 ||alcoduty.biz.ua^
@@ -154,9 +155,9 @@
 ||alcolife.net^
 ||alcomain.com^
 ||alcomarket.cc^
-||alcomarket.fun^
+||alcomarket.online^
+||alcomein.com^
 ||alcomol.com^
-||alcooptt.com^
 ||alcopaktorg.com.ua^
 ||alcopro.club^
 ||alcopro.co^
@@ -179,6 +180,7 @@
 ||alcostars.store^
 ||alcostock.net^
 ||alcotraffic.com.ua^
+||alcotraffic.net^
 ||alcotrafic.com.ua^
 ||alcoua.com^
 ||alexalmaz.com.ua^
@@ -197,15 +199,15 @@
 ||alko-lavka.org^
 ||alko-mag.com.ua^
 ||alko-mag.com^
-||alko-mag.shop^
 ||alko-magnat.com^
-||alko-market.shop^
 ||alko-opt.com^
 ||alko-paradise.com.ua^
 ||alko-smak.com.ua^
 ||alko-torg.com^
 ||alko-ua.net^
 ||alko-ua.org^
+||alko100.com.ua^
+||alkobar.com.ua^
 ||alkobazar.pro^
 ||alkobazar.shop^
 ||alkobox.com^
@@ -224,6 +226,7 @@
 ||alkolavka.shop^
 ||alkomagnat.com.ua^
 ||alkomarket.pro^
+||alkomarket.site^
 ||alkooduty.com^
 ||alkopac.com.ua^
 ||alkopak.com.ua^
@@ -232,7 +235,6 @@
 ||alkos.com.ua^
 ||alkos.in.ua^
 ||alkoshop.pro^
-||alkoshop.shop^
 ||alkoskop.com^
 ||alkoskoponline.com^
 ||alkotorg.pro^
@@ -241,13 +243,8 @@
 ||alkovkys.com.ua^
 ||alktime.in.ua^
 ||allat-ra.com^
-||allatra-book.com^
-||allatra-radio.com^
-||allatra-science.com^
-||allatra.club^
 ||allatra.info^
 ||allatra.org^
-||allatravesti.com^
 ||allbritishcasino.com^
 ||allslotscasino.com^
 ||allwinscasino.xyz^
@@ -279,6 +276,7 @@
 ||auth.rubyfortune.com^
 ||auto-doc.uno^
 ||auto-prava.site^
+||auto-store.site^
 ||auto-transfer.pro^
 ||autoflot.com.ua^
 ||autoworks.com.ua^
@@ -484,6 +482,7 @@
 ||classyslots.xyz^
 ||clinic6.dp.ua^
 ||cloudbet.com^
+||cn08.site^
 ||co.betmgm.com^
 ||coinbet.casino^
 ||coinfalls.com^
@@ -544,6 +543,7 @@
 ||diya.in.ua^
 ||dlxcasino.com^
 ||docmsater16.cx.ua^
+||docmsater9.cx.ua^
 ||dokymentu.online^
 ||domtabaka.biz^
 ||domtabaka.com.ua^
@@ -578,7 +578,6 @@
 ||dutyfree.in.ua^
 ||dutyfree.net.ua^
 ||dutyfreeshop.com.ua^
-||dutyshop.pro^
 ||dzakupivli1.com.ua^
 ||easyslots.com^
 ||ebudget.mcfr.ua^
@@ -593,11 +592,12 @@
 ||elfslots.com^
 ||elitalcoshop.com^
 ||elite-alcohol.com.ua^
+||elitopt.biz^
 ||elitsalkohol.com.ua^
 ||elitspirt.store^
 ||elslot-casinos.com^
 ||elslots-casino.net^
-||emedbuh.mcfr.ua^
+||emeddnz.mcfr.ua^
 ||emedsestra.mcfr.ua^
 ||emetodyst.mcfr.ua^
 ||empire.io^
@@ -643,6 +643,7 @@
 ||fizzslots4.com^
 ||fkqni20hlc9f4k.stolichnyy-market.xyz^
 ||flint.bet^
+||fogsmoke.net^
 ||folyou.ru^
 ||fon.bet^
 ||forex-brokers.pro^
@@ -664,6 +665,7 @@
 ||freshcasino2340.com^
 ||freshcasino2826.com^
 ||friends-casino51.com^
+||from.ua^
 ||fruitycasa.com^
 ||fun-grand.com^
 ||funbet.com^
@@ -693,6 +695,7 @@
 ||goldfishka.ru.net^
 ||goldfishka146.com^
 ||golos.eu^
+||golos.ua^
 ||goodsnus.com.ua^
 ||goodwin.am^
 ||goodwincasino.com^
@@ -737,6 +740,7 @@
 ||hollywoodcasino.com^
 ||hookahmarket.com.ua^
 ||horses-spirit.com^
+||horses-spirits.com^
 ||horuscasino.com^
 ||hotlinecasino.com^
 ||hotlinecasino6.com^
@@ -748,6 +752,7 @@
 ||hypercasino.com^
 ||i-edem.tv^
 ||i-ggbet.com^
+||idrink.ot.ua^
 ||iedem.tv^
 ||ifenergy.com.ua^
 ||igrslot.com^
@@ -767,6 +772,7 @@
 ||jackpotvillage.com^
 ||jelzin-shop.net^
 ||jelzin-shopp.com^
+||jelzinvodka.co^
 ||jelzinvodka.shop^
 ||jelzinvodka.store^
 ||jet.casino^
@@ -856,11 +862,9 @@
 ||leonbets.com^
 ||leonkz.bet^
 ||licensegetonline.com.ua^
-||lifeinua.com^
 ||like-social.net^
 ||likesid.com^
 ||likos.com.ua^
-||lingo.education^
 ||liturgia.org.ua^
 ||ll.lv^
 ||login-ggbet.com.ua^
@@ -880,14 +884,13 @@
 ||luxe-96.org^
 ||luxe-96.shop^
 ||luxe-96.store^
-||luxe96.org^
 ||luxe96.shop^
+||luxe96.site^
 ||luxe96.store^
 ||luxury-3.gameassists.co.uk^
 ||luxury-market.net^
 ||luxurycasino.com^
 ||luxxduty.com^
-||luxxxduty.com^
 ||lv24.top^
 ||lvbet.lv^
 ||lwin.pro^
@@ -951,6 +954,7 @@
 ||motorostroitel.com.ua^
 ||mrbit.bet^
 ||mrgreen.com^
+||mriya.news^
 ||mrplay.com^
 ||mutagen.com.ua^
 ||my.b2bjewelry.global^
@@ -962,6 +966,7 @@
 ||mytrashmobile.com^
 ||n-1casino.com^
 ||narazliv.online^
+||narazliv24.online^
 ||nashdonbass.com^
 ||nativity-theotokos.kiev.ua^
 ||naturepro.com.ua^
@@ -991,8 +996,10 @@
 ||online-cosmolot.com.ua^
 ||online-kosmolot.com.ua^
 ||online-play-admiral.net^
+||online.avto-doki.store^
 ||onlinesim.ru^
 ||oodtrk.od.ua^
+||opendata.avto-prava.store^
 ||opendata.avtoshkola.store^
 ||opi.com.ua^
 ||opt-spirt.com^
@@ -1018,7 +1025,6 @@
 ||parimatch1.com^
 ||partycasino.com^
 ||partypoker.com^
-||pedrada1.com.ua^
 ||pelaa.com^
 ||peptid-power.com.ua^
 ||photoart.kiev.ua^
@@ -1059,6 +1065,7 @@
 ||pokerstars.eu^
 ||pokerstars.net^
 ||pokerstarscasino.com^
+||politeka.net^
 ||pornoborshch.com^
 ||pornogorod.net^
 ||pornohobot.com^
@@ -1071,8 +1078,8 @@
 ||powerspins.com^
 ||pravda-ua.com^
 ||pravogolosa.net^
+||premiumalco.shop^
 ||premiumdrinks.shop^
-||premiumdrinks.store^
 ||premiumspirt.tilda.ws^
 ||prisoner.com.ua^
 ||proisvol.info^
@@ -1080,6 +1087,7 @@
 ||promo.iredirect.net^
 ||promo.nj.betmgm.com^
 ||proovl.com^
+||prospirts.com.ua^
 ||prskill.ru^
 ||psenichnaiy.net^
 ||psenisna.com^
@@ -1093,10 +1101,10 @@
 ||psenyischna.com^
 ||psenyschna.com^
 ||pshenichka.shop^
-||pshenichna-sleza.shop^
 ||pshenichna-sleza.top^
 ||pshenichna-vodka-kiev.com^
 ||pshenichna-vodka-kiiv.com^
+||pshenichna-vodka-kiyv.com^
 ||pshenichna.shop^
 ||pshenichnay-vodka-kiev.com^
 ||pshenichnay-vodka-kyev.com^
@@ -1153,6 +1161,7 @@
 ||ru.mrpopular.net^
 ||ru.stripchat.com^
 ||rubyfortune.com^
+||rusjev.net^
 ||russkoeporno.pro^
 ||rvcaasino.com^
 ||rvcassino.com^
@@ -1165,6 +1174,7 @@
 ||schambala.com.ua^
 ||school.medsestra1.com.ua^
 ||school.pedrada1.com.ua^
+||school.sop1.com.ua^
 ||scratch2cash.com^
 ||sdpuo.org.ua^
 ||secure.5gratorama.com^
@@ -1183,28 +1193,26 @@
 ||sexkiev.net^
 ||shikidym.com^
 ||shikidym.in.net^
+||shikidym.net^
 ||shkolaw.in.ua^
 ||shop-alko.com.ua^
-||shop.mcfr.ua^
 ||shopspirt.com.ua^
 ||sicklist.com.ua^
-||siga-sale.com^
+||siga-mir.com.ua^
 ||sigalvov.com.ua^
 ||sigamir.com.ua^
-||sigapolis.com.ua^
 ||sigara.ua^
 ||sigarataua.shop^
 ||sigareta.biz.ua^
 ||sigareti.net.ua^
 ||sigarety-optom.org^
 ||sigarety.com^
-||sigiopt.info^
 ||sigiopt.me^
-||sigiopt.net^
 ||sigiopt.pw^
 ||sigiopt.store^
 ||silkroadcasino.com^
 ||simplecasino.com^
+||skelet.info^
 ||skygames.us^
 ||slabakam.net^
 ||slava-club.com^
@@ -1225,6 +1233,7 @@
 ||smmpanele.ru^
 ||smmtrend.com^
 ||smoke-club.net^
+||smoke-club.online^
 ||smoke-shop.com.ua^
 ||smokejeen.com^
 ||smotri-ka.com.ua^
@@ -1245,6 +1254,7 @@
 ||solomka.cc^
 ||sop1.com.ua^
 ||spacecasino.co.uk^
+||spektrnews.іn.ua^
 ||spinbura.leader.bet^
 ||spindomino.leader.bet^
 ||spinia.com^
@@ -1255,6 +1265,7 @@
 ||spirit.net.ua^
 ||spirobar.com.ua^
 ||spirosbar.com.ua^
+||spirt-luks.com.ua^
 ||spirt-luks.net^
 ||spirt-lux-net-ua.com^
 ||spirt-lux.net.ua^
@@ -1262,10 +1273,13 @@
 ||spirt-lux.shop^
 ||spirt-market.com^
 ||spirt-market.net.ua^
+||spirt-opt.cc^
+||spirt-opt.site^
 ||spirt-opt.store^
 ||spirt-plus.com.ua^
 ||spirt-torg.net^
 ||spirt-torgua.com^
+||spirt-ua.com^
 ||spirt.group^
 ||spirt.pro^
 ||spirt24.store^
@@ -1286,8 +1300,8 @@
 ||spirtmarket.com^
 ||spirtmarket.in.ua^
 ||spirtmarket.shop^
+||spirtmarket.space^
 ||spirtmarket.store^
-||spirtmarket.website^
 ||spirtopt.com.ua^
 ||spirtopt.top^
 ||spirtov.org^
@@ -1298,8 +1312,6 @@
 ||spirts.shop^
 ||spirttrade.com^
 ||spirtukrprom.com.ua^
-||spirtukrprom.top^
-||spirtzakaz.online^
 ||sport-nutrition.in.ua^
 ||sport.goodwin.am^
 ||sports.borgataohiine.com^
@@ -1315,6 +1327,7 @@
 ||spravki.pro^
 ||spravochki.net^
 ||sprintersmm.com^
+||spzh.news^
 ||stake.com^
 ||starcasino.be^
 ||stardacasinoua.com^
@@ -1343,6 +1356,8 @@
 ||tabaco.pw^
 ||tabacopt.in.ua^
 ||tabak.org.ua^
+||tabakerka.cx.ua^
+||tabeker.net^
 ||taplink.cc^
 ||taplink.ru^
 ||taplink.ws^
@@ -1356,7 +1371,6 @@
 ||tetramarketshopukr.com.ua^
 ||tetrapack.shop^
 ||tetrapak-shop.com^
-||tetrashop.net.ua^
 ||tggames.leader.bet^
 ||theborgata.com^
 ||thekosmolot.com^
@@ -1384,31 +1398,39 @@
 ||tvkino.com.ua^
 ||twin.com^
 ||u24donate.org^
+||ua- reporter.сom^
 ||ua.888poker.com^
 ||ua.bongacams.com^
 ||ua.kosmolot.club^
 ||ua.leonbets.com^
 ||ua2.ggpoker.com^
+||ua24ua.net^
 ||uadutyfree.com^
 ||uasiga.com^
 ||uasiga.online^
+||uasiga.org^
+||uasiga.site^
 ||uasiga.store^
 ||uaspirtmarket.com^
 ||ukr-rus-bus.com^
 ||ukr-spirt.store^
 ||ukraine-goldcup345.kh.ua^
 ||ukraine-inc.info^
+||ukrainianwall.com^
 ||ukrcasino.com.ua^
 ||ukrcigar.com.ua^
 ||ukrdoping.com.ua^
 ||ukrdoping.com^
 ||ukrfarma.in.ua^
+||ukrrudprom.ua^
 ||ukrspirt-market.org^
 ||ukrspirt-market.pro^
 ||ukrspirt-trade.me^
 ||ukrspirt-trade.online^
 ||ukrspirt-trade.org^
+||ukrspirttrade.com.ua^
 ||ukrtobacco.com.ua^
+||ukrtopbiz.top^
 ||ukrtutun.com.ua^
 ||ukrtutun.com^
 ||unatedtobaco.top^
@@ -1416,6 +1438,7 @@
 ||unian.org^
 ||unian.pm^
 ||unibet.co.uk^
+||usg-market.com.ua^
 ||v-pake.shop^
 ||vapehub.org^
 ||vavada.lol^
@@ -1430,7 +1453,6 @@
 ||video-forex.com^
 ||vini.net.ua^
 ||vinrajrada.org.ua^
-||vip-alco.com.ua^
 ||vip-cazinos.club^
 ||vipforward.pm^
 ||vipkasino.xyz^
@@ -1446,7 +1468,6 @@
 ||vrboutique.com.ua^
 ||vseputi.com.ua^
 ||vsetut.net.ua^
-||vsetut.od.ua^
 ||vulcanmega.com^
 ||vulkan-mega-casino.azurewebsites.net^
 ||vulkan24club.com^
