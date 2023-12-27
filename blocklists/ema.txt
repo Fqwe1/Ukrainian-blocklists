@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1671
+! Total number of filters: 1673
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -45,6 +45,7 @@
 ||abicor-ukr.com.ua^
 ||abox-ukraine.com^
 ||abs-techno.ru^
+||ac.xgttc128.com^
 ||accept-opros.top^
 ||activeservice-ua.com^
 ||activuser.pw^
@@ -169,6 +170,7 @@
 ||bocymatoma.butilar.com^
 ||bonus-email.aaclp.top^
 ||bonuspay.com.ua^
+||boo-king.net^
 ||boo-king.shop^
 ||boo-king.xyz^
 ||boomer-cinema.me^
