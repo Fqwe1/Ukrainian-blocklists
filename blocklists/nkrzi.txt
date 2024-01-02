@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1547
+! Total number of filters: 1562
 ||0233.info^
 ||0744.live^
 ||10bet.com^
@@ -70,7 +70,6 @@
 ||alca-mag.com^
 ||alca-ukrain.com^
 ||alca-ukraina.com^
-||alca-ukrayna.com^
 ||alcko-opt.com^
 ||alckoduty.com^
 ||alckomarket.com.ua^
@@ -78,6 +77,7 @@
 ||alckoopt.com^
 ||alckshop.com^
 ||alco-bar.pro^
+||alco-bar.shop^
 ||alco-bazar.com^
 ||alco-centr.com^
 ||alco-centr.net^
@@ -97,13 +97,13 @@
 ||alco-market.com^
 ||alco-market.org^
 ||alco-market.top^
-||alco-mir.com.ua^
 ||alco-ok.com^
 ||alco-ok.shop^
 ||alco-pack.net^
 ||alco-party.site^
 ||alco-plus.com^
 ||alco-pub.org.ua^
+||alco-shop-net.com^
 ||alco-shop-ua.com^
 ||alco-shop.site^
 ||alco-shopnet.biz^
@@ -121,6 +121,7 @@
 ||alco-ua.shop^
 ||alco-ukrain.com^
 ||alco-ukraina.com^
+||alco-ukraine.com^
 ||alco-ukrayn.com^
 ||alco-ukrayna.com^
 ||alco-ykraina.com^
@@ -166,6 +167,7 @@
 ||alcopro.online^
 ||alcopro.org^
 ||alcopro.pro^
+||alcopro.shop^
 ||alcopro.site^
 ||alcopro.website^
 ||alcopub.net^
@@ -626,6 +628,7 @@
 ||ezavuch.mcfr.ua^
 ||fanduel.com^
 ||faphub.tv^
+||farmamarket.com.ua^
 ||farmamarket.pro^
 ||farmaua.com^
 ||farmbody.com.ua^
@@ -966,10 +969,13 @@
 ||mriya.news^
 ||mrplay.com^
 ||mutagen.com.ua^
+||mvs.gov.od.ua^
+||mvsgov.com.ua^
 ||my.b2bjewelry.global^
 ||myaccount.betfair.com^
 ||myaccount.partypoker.com^
 ||mykapriz.com.ua^
+||myspirt.com^
 ||myspirt.pp.ua^
 ||mystake.bet^
 ||mytrashmobile.com^
@@ -1123,12 +1129,15 @@
 ||pshenichna-vodka-kiiv.com^
 ||pshenichna-vodka-kiyv.com^
 ||pshenichna.shop^
+||pshenichnagorilka.com^
 ||pshenichnay-vodka-kiev.com^
 ||pshenichnay-vodka-kyev.com^
 ||pshenichnaya-vodka-kiev.com^
 ||pshenichnaya-vodka-kiyv.biz^
 ||pshenichnaya-vodka-kiyv.com^
+||pshenichnaya-vodka-kyiv.com^
 ||pshenichnaya.shop^
+||pshenisna.com^
 ||ptclick.com.ua^
 ||qoxbet.com.ua^
 ||racecasino.com^
@@ -1300,15 +1309,19 @@
 ||spirt-opt.site^
 ||spirt-opt.store^
 ||spirt-plus.com.ua^
+||spirt-prom.com.ua^
+||spirt-torg.com^
 ||spirt-torg.net^
 ||spirt-torgua.com^
 ||spirt-ua.com^
 ||spirt.group^
 ||spirt.pro^
+||spirt24.com^
 ||spirt24.store^
 ||spirt96.co^
 ||spirt96.org^
 ||spirt96.pro^
+||spirt96.store^
 ||spirtclub.co^
 ||spirtclub.com^
 ||spirtclub.live^
@@ -1318,6 +1331,7 @@
 ||spirtclub.store^
 ||spirtexpo.org^
 ||spirtik.com.ua^
+||spirtin.in.ua^
 ||spirtinua.com^
 ||spirtltd.shop^
 ||spirtmarket.com^
@@ -1437,9 +1451,9 @@
 ||uasiga.online^
 ||uasiga.org^
 ||uasiga.site^
-||uasiga.store^
 ||uaspirtmarket.com^
 ||ukr-rus-bus.com^
+||ukr-spirt.com^
 ||ukr-spirt.store^
 ||ukraine-goldcup345.kh.ua^
 ||ukraine-inc.info^
@@ -1450,6 +1464,7 @@
 ||ukrdoping.com^
 ||ukrfarma.in.ua^
 ||ukrrudprom.ua^
+||ukrspirt-market.com^
 ||ukrspirt-market.org^
 ||ukrspirt-market.pro^
 ||ukrspirt-trade.me^
