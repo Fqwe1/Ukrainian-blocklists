@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1675
+! Total number of filters: 1679
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -173,6 +173,7 @@
 ||bonvivant01.com^
 ||boo-king.net^
 ||boo-king.shop^
+||boo-king.vip^
 ||boo-king.xyz^
 ||boomer-cinema.me^
 ||boomer-cinema.org^
@@ -1432,6 +1433,7 @@
 ||start-auto.kiev.ua^
 ||start-pay.com.ua^
 ||startsmart.com.ua^
+||stecmcommunnity.com^
 ||step-time.com.ua^
 ||stimeler.ga^
 ||stop-sopa.appspot.com^
@@ -1624,7 +1626,9 @@
 ||wdcfsfsfgbs.com^
 ||web-payments.com.ua^
 ||web.eebankosdoxla.site^
+||web.fioporsudogtberp.cf^
 ||web.seyrosnpaynhe.website^
+||web.weiworlmartoreave.tk^
 ||webinfom.ru^
 ||weekpaidlife.top^
 ||wegroup.com.ua^
