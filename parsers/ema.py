@@ -34,7 +34,7 @@ def get_blocklist() -> None:
             elif '@' in url:  # Telegram usernames
                 continue
 
-            # From www.example.compile
+            # From www.example.com
             # to example.com
             if url.startswith('www.'):
                 url = url.replace('www.', '')
