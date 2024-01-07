@@ -26,6 +26,12 @@ jobs:
             - name: Update EMA blocklist
               run: python parsers/ema.py
 
+            - name: Update RNBO IP blocklist
+              run: python parsers/rnbo_ip.py
+
+            - name: Update NKRZI IP blocklist
+              run: python parsers/nkrzi_ip.py
+
             - name: Commit files
               run: |
                   git config --local user.email "action@github.com"
