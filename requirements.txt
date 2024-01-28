@@ -1,0 +1,4 @@
+asyncio==3.4.3
+beautifulsoup4==4.12.3
+httpx[http2]==0.26.0
+lxml==5.1.0
