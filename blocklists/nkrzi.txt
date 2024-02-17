@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2525
+! Total number of filters: 2600
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -126,6 +126,7 @@
 ||a-dopomoga.org.ua^
 ||account.sbobet.com^
 ||account.sportsbook.fanduel.com^
+||achtungpartisanen.ru^
 ||aclo-hub.com^
 ||adc-apteka.com.ua^
 ||adihash.top^
@@ -350,9 +351,11 @@
 ||amorale.cc^
 ||amp.topwar.ru^
 ||amvrosievka-gorsovet.1c-umi.ru^
+||amvrosievka-gorsovet.umi.ru^
 ||andrada.com.ua^
 ||anonymbet.co^
 ||antifashist.com^
+||antr-adm.ru^
 ||apelsin.ck.ua^
 ||aplav.casino^
 ||apollon.com.ua^
@@ -365,6 +368,7 @@
 ||aspirit.com.ua^
 ||astekbet.com^
 ||atlanticspins.com^
+||au-donetsk.ru^
 ||auroombet.com^
 ||auth.allslotscasino.com^
 ||auth.allslotscasinq.com^
@@ -520,6 +524,7 @@
 ||bongoslot.com^
 ||bons11.com^
 ||bonuses-first832.biz.ua^
+||bookmate.com^
 ||boomcasino.com^
 ||borengo.com^
 ||borgataonline.com^
@@ -697,6 +702,7 @@
 ||cigareti.com.ua^
 ||cigaropt.com^
 ||cigaropt.eu.com^
+||cikdnr.su^
 ||citydr.top^
 ||clan13.one^
 ||classy-slots.info^
@@ -717,9 +723,11 @@
 ||colossusbets.com^
 ||come.true-site1.com^
 ||comeon.com^
+||comitet.su^
 ||companion.ua^
 ||compliment2019.biz^
 ||contact.rationalwebservices.com^
+||contactpay.com^
 ||cookiecasino.com^
 ||cosmo.kiev.ua^
 ||cosmo.lot-free.com^
@@ -756,6 +764,7 @@
 ||cosmolt.com.ua^
 ||cosmoslot.live^
 ||cosmoslots.com.ua^
+||crb-dnr.ru^
 ||crdru.net^
 ||creative-expo.com.ua^
 ||crocobet.com^
@@ -772,6 +781,7 @@
 ||dark-store.pro^
 ||db-bet.com^
 ||db-bet7902.top^
+||debalcevo-dnr.ru^
 ||dendycasino9.com^
 ||desertnightscasino.com^
 ||dhs.com.ua^
@@ -787,6 +797,7 @@
 ||diya.in.ua^
 ||dlxcasino.com^
 ||dnrailway.ru^
+||dnrsovet.su^
 ||do-mein.ru^
 ||do-rc.com^
 ||docmsater16.cx.ua^
@@ -795,8 +806,12 @@
 ||dokymentu.online^
 ||domtabaka.biz^
 ||domtabaka.com.ua^
+||donbasstoday.ru^
 ||doncsm.ru^
+||donetsk.kp.ru^
 ||donmarkets.ru^
+||donmintrans.ru^
+||donnu.ru^
 ||dontimes.ru^
 ||donukrbus.com^
 ||dopomoga-uah.top^
@@ -870,6 +885,7 @@
 ||emucasino.com^
 ||en.ek-85639.info^
 ||en.sportingbull.com^
+||enakievo.org^
 ||energycasino.com^
 ||energywin.com^
 ||engine.xbet.ag^
@@ -976,6 +992,7 @@
 ||frankfred.com^
 ||free-topic.ru^
 ||freecams.com^
+||freedom.kiev.ua^
 ||freepaybest.beauty^
 ||freepaydom.beauty^
 ||freepayforum.shop^
@@ -1052,6 +1069,7 @@
 ||gkgtn.ru^
 ||gknslnr.su^
 ||glava-lnr.info^
+||glava-lnr.su^
 ||gmd.iredirect.net^
 ||go-x-bet-casino.com.ua^
 ||go-x-bet-casino.org.ua^
@@ -1081,6 +1099,7 @@
 ||goliathcasino.com^
 ||golos.eu^
 ||golos.ua^
+||golospravdy.com^
 ||golovbukh.ua^
 ||gomel-sat.bz^
 ||goodsnus.com.ua^
@@ -1097,6 +1116,7 @@
 ||gorilocka.com^
 ||gorlovka-tv.ru^
 ||gormonrosta.com.ua^
+||gorod-donetsk.com^
 ||goskomzemdnr.ru^
 ||goskomzemlnr.su^
 ||gossipslots.eu^
@@ -1137,6 +1157,7 @@
 ||gtichok.fun^
 ||gtklnr.su^
 ||gtrklnr.su^
+||gtrlnr.com^
 ||gum-centr.su^
 ||guprec.ru^
 ||gurman-dnepr.prom.ua^
@@ -1185,13 +1206,17 @@
 ||igvodka.org^
 ||igvodka.store^
 ||ilook.tv^
+||ilovaisk.ugletele.com^
 ||ilucki.com^
 ||in-stream.com.ua^
+||infovestnik.blogspot.com^
 ||instantpay-casino.com^
 ||instantpay-casino3.com^
 ||instantplayusd.casinomidas.com^
 ||intertops.eu^
+||ints.net^
 ||itcs.net.ua^
+||itres.ru^
 ||ivicasino.com^
 ||ivip9sg.com^
 ||ixxx.com^
@@ -1279,9 +1304,12 @@
 ||kfc24.org^
 ||kg-gonzo-wof-curr.lets-fun.top^
 ||kg.tennisi.com^
+||khartsyzsk.ugletele.com^
+||kianews24.ru^
 ||kimvegas.com^
 ||kingdomcasino.com^
 ||kingfitness.com.ua^
+||kirovskoe.ugletele.com^
 ||klad.cc^
 ||kocmolot.com^
 ||komarno.in.ua^
@@ -1327,6 +1355,7 @@
 ||kwork.ru^
 ||l-casino.com.ua^
 ||l3.12zigzag777.com^
+||labirint.ru^
 ||labrc.org^
 ||laclo.com^
 ||ladbrokes.com^
@@ -1351,9 +1380,11 @@
 ||leonbets.com^
 ||leonbets.net^
 ||leonkz.bet^
+||lgt.su^
 ||licensegetonline.com.ua^
 ||lifedon.com.ua^
 ||lifeinua.com^
+||lifelug.su^
 ||like-social.net^
 ||likesid.com^
 ||likos.com.ua^
@@ -1428,6 +1459,7 @@
 ||magicalspinaffiliates.com^
 ||magicred.com^
 ||makaobet.com^
+||makeyevka.ru^
 ||manekicasino.com^
 ||mangocasino.com^
 ||marad.com.ua^
@@ -1453,6 +1485,8 @@
 ||mbet.com^
 ||mchs-lnr.su^
 ||mchs.gov.ru^
+||mcxdnr.ru^
+||mdsdnr.ru^
 ||mdu.com.ua^
 ||me-aid.icu^
 ||mealnreal.com.ua^
@@ -1526,7 +1560,9 @@
 ||motorostroitel.com.ua^
 ||mountgold.com^
 ||mpt-dnr.ru^
+||mptdnr.ru^
 ||mrbit.bet^
+||mrespublika.ru^
 ||mrgreen.com^
 ||mriya.news^
 ||mrking.fun^
@@ -1550,13 +1586,16 @@
 ||myspirt.com^
 ||mystake.bet^
 ||mytrashmobile.com^
+||mzdnr.ru^
 ||n-1casino.com^
 ||n1bet.com^
 ||n1casino.com^
+||nahnews.org^
 ||narazliv.com^
 ||narazliv.online^
 ||narazliv24.online^
 ||narcos24.cc^
+||nashagazeta.net^
 ||nashdonbass.com^
 ||nativegaming.io^
 ||nativity-theotokos.kiev.ua^
@@ -1569,6 +1608,7 @@
 ||netpaytop.shop^
 ||netrc.cc^
 ||new-1xbet.com^
+||newsdnr.ru^
 ||newskog.ru^
 ||newsplkompensation.top^
 ||newsua.ru^
@@ -1589,6 +1629,8 @@
 ||nordiscasino.com^
 ||northcasino.com^
 ||novoaz-adm.3dn.ru^
+||novorossia.su^
+||novorossia.vision^
 ||novostiua.info^
 ||novostnik.com.ua^
 ||nrktk.store^
@@ -1602,6 +1644,8 @@
 ||obshegitie.org.ua^
 ||oceanbreezecasino1.com^
 ||oddr.info^
+||odnarodyna.org^
+||odsd.ru^
 ||offers.zodiacbet.com^
 ||official-pay.online^
 ||ofitsialnyy-sayt-kosmolot.com^
@@ -1653,6 +1697,7 @@
 ||ou-edopomoga.com^
 ||ou-edopomoga.net^
 ||ovitoonscasino.com^
+||ozon.ru^
 ||ozwincasino.com^
 ||pa.hollywoodcasino.com^
 ||paf.com^
@@ -1671,6 +1716,7 @@
 ||parimatch1.com^
 ||partycasino.com^
 ||partypoker.com^
+||paystree.com^
 ||payx-exchange.com^
 ||pcs-order.me^
 ||pedrada1.com.ua^
@@ -1768,6 +1814,7 @@
 ||pokies2go.com^
 ||politeka.net^
 ||politicsnews.com.ua^
+||politnavigator.net^
 ||pornoborshch.com^
 ||pornogorod.net^
 ||pornohobot.com^
@@ -1796,6 +1843,7 @@
 ||privat24ua.buzz^
 ||privat24ua.shop^
 ||pro-roxcasino.com.ua^
+||prodonbass.ru^
 ||profistarz.com^
 ||proisvol.info^
 ||promo.bwin.com^
@@ -1849,6 +1897,7 @@
 ||railwayhospital.com.ua^
 ||rbk.media^
 ||rcvip.one^
+||rcz-dnr.ru^
 ||realwin.com^
 ||receive-a-sms.com^
 ||receive-sms-online.com^
@@ -1861,6 +1910,7 @@
 ||receivesmsverification.com^
 ||redcherry.casino^
 ||redping.win^
+||redray-lnr-news.su^
 ||redrosecasino.com^
 ||redstarbets.com.ua^
 ||redstarbets1.com^
@@ -1931,10 +1981,14 @@
 ||ru24.unibet.com^
 ||rubyfortune.com^
 ||rufuscasino.com^
+||rusdialog.ru^
 ||rusjev.net^
 ||ruskompromat.com^
+||rusmatica.org^
+||rusnext.ru^
 ||russian-center.ru^
 ||russkoeporno.pro^
+||rusvesna.su^
 ||rvcaasino.com^
 ||rvcassino.com^
 ||rysebet.com^
@@ -1973,6 +2027,7 @@
 ||sevastopol.press^
 ||sevenplay.site^
 ||sexkiev.net^
+||shahtersk.org^
 ||shikidym.com^
 ||shikidym.in.net^
 ||shivakiss.net^
@@ -1999,10 +2054,12 @@
 ||silverplay.com^
 ||simplecasino.com^
 ||skelet.info^
+||skgazeta.su^
 ||skolcasino.com^
 ||skygames.us^
 ||slabakam.net^
 ||slava-club.com^
+||slavvesti.su^
 ||slot-ukraine.com^
 ||slotanza.com^
 ||slotbox.com^
@@ -2050,6 +2107,7 @@
 ||sms-reg.com^
 ||smsget.net^
 ||smska.us^
+||snezh-dnr.wmsite.ru^
 ||soc-order.me^
 ||socar.com.ua^
 ||socelin.ru^
@@ -2178,6 +2236,7 @@
 ||starcasino.be^
 ||stardacasinoua.com^
 ||stardrugs.top^
+||starobeshevo.ru^
 ||starsweb.pokerstarscasino.com^
 ||stawki.bet^
 ||stayluckycasino.com^
@@ -2197,6 +2256,7 @@
 ||sunmaker.de^
 ||sunpura.com^
 ||supacasi.com^
+||supcourt-dpr.su^
 ||superboss1.com^
 ||superboss2.com^
 ||superboss3.com^
@@ -2215,6 +2275,7 @@
 ||sygaretylvov.com^
 ||sygaretylvov.kiev.ua^
 ||systemjackpot.com^
+||szstakhanov.su^
 ||t.me/ELFBARuaTORG^
 ||t.me/joinchat/gNBhB-e4XtszZDly^
 ||tabaco.com.ua^
@@ -2233,6 +2294,7 @@
 ||techport.net.ua^
 ||telekanal-oplot.tv^
 ||telmanovo-dnr.ru^
+||telmanovo.dnr-online.ru^
 ||tempobet.com^
 ||tennisi.betpps^
 ||tennisi.com^
@@ -2273,10 +2335,12 @@
 ||topfarma.com.ua^
 ||topikosik.fun^
 ||topukcasino.com^
+||torez24.ru^
 ||tppdnr.ru^
 ||tradacasino.com^
 ||tranceservice.com^
 ||traveline.ua^
+||trudgor.su^
 ||trudovepravo.com.ua^
 ||trunsfer-fund.online^
 ||tsars.com^
@@ -2353,7 +2417,9 @@
 ||unibet.co.uk^
 ||unibet.com^
 ||unioplaty.space^
+||uoperev.ucoz.org^
 ||ur-littlepays.com^
+||uscrimea.ru^
 ||usg-market.com.ua^
 ||v-pake.shop^
 ||vapehub.org^
@@ -2397,6 +2463,7 @@
 ||vipkasinos.xyz^
 ||vipkazinos.net^
 ||vlc-club-slot.com^
+||vmakeevke.com^
 ||vodadonbassa.ru^
 ||vodka-lux.store^
 ||vodka-market.online^
@@ -2408,6 +2475,7 @@
 ||volna-casino3.com^
 ||volna-casino5.com^
 ||volna.casino^
+||voskhodinfo.su^
 ||vostock.net.ua^
 ||vrboutique.com.ua^
 ||vseputi.com.ua^
@@ -2488,6 +2556,7 @@
 ||y8gamesflash.com^
 ||yabbycasino.com^
 ||yakocasino.com^
+||yasispolkom.dnr-online.ru^
 ||yasispolkom.ru^
 ||yebet.com^
 ||yes-alco.online^
@@ -2513,6 +2582,7 @@
 ||zenitbet.com^
 ||zenitnow286.top^
 ||zerkalo-cosmolot476.ternopil.ua^
+||zhdanovka.com^
 ||zhdanovka.ugletele.com^
 ||zigzag777.com^
 ||zigzagsport.com^
@@ -2523,8 +2593,13 @@
 ||zoloto-loto.net^
 ||zolotoloto.com.ua^
 ||ztpro.ru^
+||zugres.ugletele.com^
 ||zyngapoker.com^
 ||дьюти-фри.укр^
+||керчь-город.рф^
 ||миеле-сервис.net^
+||минсвязь.рус^
 ||простоспец.рф^
 ||с1x-bet.com^
+||скворцовский.рф^
+||чистенькое-адм.рф^
