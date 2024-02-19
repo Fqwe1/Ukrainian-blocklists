@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2600
+! Total number of filters: 2623
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -124,6 +124,7 @@
 ||966spirt.com.ua^
 ||9slottica.com^
 ||a-dopomoga.org.ua^
+||a777zino.org^
 ||account.sbobet.com^
 ||account.sportsbook.fanduel.com^
 ||achtungpartisanen.ru^
@@ -735,23 +736,29 @@
 ||cosmocasino.com^
 ||cosmolot-24.com.ua^
 ||cosmolot-casino-online.com.ua^
+||cosmolot-casino.com.ua^
 ||cosmolot-casino.com^
 ||cosmolot-casino.fun^
 ||cosmolot-casinos.com^
+||cosmolot-game.com^
 ||cosmolot-online-casino.com.ua^
 ||cosmolot-online.com^
 ||cosmolot-online.kiev.ua^
+||cosmolot-online.net^
 ||cosmolot-onlines.com^
 ||cosmolot-site.com^
 ||cosmolot-slot.online^
 ||cosmolot-slot.site^
 ||cosmolot-slot.xyz^
 ||cosmolot-ukraine.com.ua^
+||cosmolot.at.ua^
 ||cosmolot.co.ua^
 ||cosmolot.com^
+||cosmolot.games^
 ||cosmolot24-casino.xyz^
 ||cosmolot24.com^
 ||cosmolot24.net^
+||cosmolot777.com.ua^
 ||cosmolotcasino.com.ua^
 ||cosmolotl.com.ua^
 ||cosmoloto-24.com.ua^
@@ -1202,6 +1209,7 @@
 ||idrink.ot.ua^
 ||iedem.tv^
 ||ifenergy.com.ua^
+||igrat-igrovyeavtomaty.com^
 ||igrslot.com^
 ||igvodka.org^
 ||igvodka.store^
@@ -1215,6 +1223,7 @@
 ||instantplayusd.casinomidas.com^
 ||intertops.eu^
 ||ints.net^
+||irshansk-rada.com.ua^
 ||itcs.net.ua^
 ||itres.ru^
 ||ivicasino.com^
@@ -1301,6 +1310,7 @@
 ||kazino-joycasino.online^
 ||kazino-vip.net^
 ||kazino-vulcan-grand.com^
+||kazino777bonus.net^
 ||kfc24.org^
 ||kg-gonzo-wof-curr.lets-fun.top^
 ||kg.tennisi.com^
@@ -1311,6 +1321,7 @@
 ||kingfitness.com.ua^
 ||kirovskoe.ugletele.com^
 ||klad.cc^
+||klub-azino777.co^
 ||kocmolot.com^
 ||komarno.in.ua^
 ||komok-market.shop^
@@ -1327,9 +1338,11 @@
 ||kosmo-casino.com^
 ||kosmo-lot.info^
 ||kosmo-lot.online^
+||kosmo-lot.org^
 ||kosmo-lots.com^
 ||kosmolot-2019.com^
 ||kosmolot-24.com.ua^
+||kosmolot-casino.net^
 ||kosmolot-cazino.pl.ua^
 ||kosmolot-kazino.com.ua^
 ||kosmolot-msl.com.ua^
@@ -1369,6 +1382,7 @@
 ||lapilanders.com^
 ||lasvegascasino.com^
 ||lavinamy.fun^
+||lazok.com.ua^
 ||leader.bet^
 ||lecharcan.com.ua^
 ||legislation.to^
@@ -1724,7 +1738,9 @@
 ||pelaa.com^
 ||pelancarhaid.beauty^
 ||pelicancasino.games^
+||pelmsi.kiev.ua^
 ||peptid-power.com.ua^
+||perlina-kiev.com.ua^
 ||peronews.com.ua^
 ||personnews.com.ua^
 ||ph.casino^
@@ -1766,6 +1782,7 @@
 ||play.pokermatch8.com^
 ||play.pokermatch9.com^
 ||play.pokermatchvip.com^
+||play.slots4money.com^
 ||play595.com^
 ||playamo.com^
 ||playclub.com^
@@ -1892,6 +1909,7 @@
 ||queenspins.com^
 ||racecasino.com^
 ||racing.fanduel.com^
+||rada-zinkiv.com.ua^
 ||radabatkiv.kiev.ua^
 ||radazed.org.ua^
 ||railwayhospital.com.ua^
@@ -2411,6 +2429,7 @@
 ||ukrtutun.com.ua^
 ||ukrtutun.com^
 ||unatedtobaco.top^
+||unc-mps.com.ua^
 ||underground.casino^
 ||unian.org^
 ||unian.pm^
@@ -2445,6 +2464,7 @@
 ||vegasslotsonline.com^
 ||verification.itcs.net.ua^
 ||vgl-sport.ru^
+||vhod-v-kazino777.space^
 ||video-forex.com^
 ||videoslots.com^
 ||vini.net.ua^
@@ -2486,6 +2506,7 @@
 ||vulcanmega.com^
 ||vulk7.bet^
 ||vulkan-cazino.net.ua^
+||vulkan-grand.co^
 ||vulkan-mega-casino.azurewebsites.net^
 ||vulkan24club.com^
 ||vulkan777.app^
@@ -2547,11 +2568,13 @@
 ||worldpayplus.icu^
 ||wulkan-777.com^
 ||x-web.com.ua^
+||x100000.com^
 ||x24bet.com^
 ||xbet.ag^
 ||xcasino102.com^
 ||xcasinoclub.com.ua^
 ||ximko.vip^
+||xn----7sbah6bgddnebb9ahdi8l.com^
 ||xn--d1d1abj0abs9d.in.ua^
 ||y8gamesflash.com^
 ||yabbycasino.com^
