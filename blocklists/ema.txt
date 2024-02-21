@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1702
+! Total number of filters: 1704
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -264,6 +264,7 @@
 ||clubkassa-24.shop^
 ||clubkassa24.top^
 ||clubprices.shop^
+||clxb.ee^
 ||cnopm.ml^
 ||co-opros.top^
 ||coffee-inspiration.com^
@@ -636,6 +637,7 @@
 ||lin-bud.com^
 ||link-traidcompany.com^
 ||litebox-ukr.com^
+||lkonlinepersonal.za.com^
 ||loanalfa.tech^
 ||loansecure.tech^
 ||localditcolmc.online^
