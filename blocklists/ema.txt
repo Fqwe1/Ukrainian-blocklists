@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1704
+! Total number of filters: 1708
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -13,6 +13,7 @@
 ||1box-ua.com^
 ||1sup.club^
 ||1xwin.bet^
+||216.118.230.20^
 ||24-kassa.shop^
 ||24grandcasino.com^
 ||24next.doromogaresort.online^
@@ -1434,6 +1435,7 @@
 ||snp-broker.io^
 ||socprofile.com^
 ||soctrud.com^
+||sofly.trange.workers.dev^
 ||some-gos.top^
 ||sove-gos.top^
 ||specheart.com^
@@ -1471,6 +1473,7 @@
 ||swap-pro.trade^
 ||swayauto.kiev.ua^
 ||swift-pay.com.ua^
+||swk1001.com^
 ||sxblogtradellcusa.icu^
 ||system-wallet.com^
 ||systempay.kiev.ua^
@@ -1680,6 +1683,7 @@
 ||xbox-ua.com^
 ||xiaomi-store.com.ua^
 ||xingjxcgbdylbj.store^
+||xiongmao002.com^
 ||xrates.ru^
 ||xtradercorpvlog2020.icu^
 ||yakor.shop^
