@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1708
+! Total number of filters: 1712
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -67,6 +67,7 @@
 ||ai.marketing^
 ||aid-edopomoga.pro^
 ||aidogov.site^
+||aio-product.net^
 ||akvapark.site^
 ||alfa-gos.top^
 ||alfabankua.tilda.ws^
@@ -234,6 +235,7 @@
 ||cashbyphone.top^
 ||cashinphone.top^
 ||cashpass.ru^
+||cashsupportline.za.com^
 ||cashtophone.top^
 ||casino-1xbet.com^
 ||casino-williamhill.cc^
@@ -797,6 +799,7 @@
 ||namemo.ucraft.site^
 ||natthame.com^
 ||nek0samurai.github.io^
+||nekly.henly.workers.dev^
 ||neobank.pcs-order.me^
 ||nettgola.site^
 ||newauction.com.ua^
@@ -1359,6 +1362,7 @@
 ||refreshmentsubmarine.top^
 ||regadwerts.ru^
 ||rewison.ga^
+||rezina-diski.com.ua^
 ||rfterua.space^
 ||rikter-lor.ru^
 ||ringo-bet.net^
