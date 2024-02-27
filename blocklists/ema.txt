@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1716
+! Total number of filters: 1720
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -191,6 +191,7 @@
 ||bui-gos.top^
 ||bukovel.store^
 ||bul-opros.top^
+||burlgo.com^
 ||busfor-online.site^
 ||busfor-ua.payments-cars.com^
 ||businespro.ru^
@@ -424,6 +425,7 @@
 ||for-gos.top^
 ||forbestua.com^
 ||force-pay.info^
+||foresttoy.homes^
 ||forhome.site^
 ||fortunateeuphoria.com^
 ||found-gos.top^
@@ -531,6 +533,7 @@
 ||ibank-atcib.com^
 ||ibox-city.com.ua^
 ||iboyun.net^
+||idtnf.site^
 ||igenius.ga^
 ||igoog.ru^
 ||ikea-market.com.ua^
@@ -1635,6 +1638,7 @@
 ||ves-gos.top^
 ||vh20153.hv4.ru^
 ||viber-darit-prizy.xyz^
+||vidprawinua.workers.dev^
 ||vidprawunya.guarrano-guild.workers.dev^
 ||vip-animal.com^
 ||vip-booking.net^
