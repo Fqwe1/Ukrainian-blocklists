@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1720
+! Total number of filters: 1722
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -407,6 +407,7 @@
 ||finance-dopomoga.site^
 ||finance-helpya.com^
 ||finbet.org.ua^
+||finbet.top^
 ||finens.biz^
 ||firefly-line.com^
 ||firmusha.top^
@@ -895,6 +896,7 @@
 ||olx.moe^
 ||olx.oplatline.online^
 ||olx.safepayment.site^
+||olx.suppline24.online^
 ||olx.ua-dellvery.site^
 ||olx.ua-dostawa.me^
 ||olx.ua.dostavasafe.site^
