@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1722
+! Total number of filters: 1727
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -86,6 +86,7 @@
 ||amex-pay.com.ua^
 ||amo-opros.top^
 ||an-gos.top^
+||aobsdfo.space^
 ||ap.diuaaaaxxx.sbs^
 ||app-privat24.me^
 ||app.mdglobal.site^
@@ -320,6 +321,7 @@
 ||domopoga-ua.nopersonexty.online^
 ||dompaidscentr.shop^
 ||dopomoga-epay.site^
+||dopomoga-social1.com^
 ||dopomoga-ua.online^
 ||dopomoga.newsukrgl.online^
 ||doppolch.site^
@@ -1118,6 +1120,7 @@
 ||pochtant.eu^
 ||poirtmone.in.ua^
 ||pokecoince-go.com^
+||poldenkirbusiness.dunthemonster9121.workers.dev^
 ||pololnyska.ru^
 ||poluchibilet.online^
 ||poluchka.3dss-pays.info^
@@ -1547,6 +1550,7 @@
 ||transfervsem.tech^
 ||transfervsem24.tech^
 ||transfervsem365.tech^
+||trejo.luqos.workers.dev^
 ||tri-tech.com.ua^
 ||tripa-dvisor.org^
 ||tris-gos.top^
@@ -1678,6 +1682,7 @@
 ||windon.pp.ua^
 ||winpayday.shop^
 ||wise-pay.info^
+||wkl2126.com^
 ||wmobile.in.ua^
 ||wmsra.com^
 ||wmtua666.top^
