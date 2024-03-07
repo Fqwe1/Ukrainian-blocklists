@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 502
+! Total number of filters: 501
 ||100kwt.com^
 ||1cupis.ru^
 ||1prime.ru^
@@ -24,8 +24,6 @@
 ||82.rospotrebnadzor.ru^
 ||82.мвд.рф^
 ||82reg.roszdravnadzor.ru^
-||Minpromlnr.su^
-||Sovminlnr.su^
 ||abet.ru^
 ||academyit.ru^
 ||admin-gorlovka.ru^
@@ -224,6 +222,7 @@
 ||mini.webmoney.ru^
 ||mini.wmtransfer.com^
 ||minjust-dnr.ru^
+||minpromlnr.su^
 ||minstroy-dnr.ru^
 ||mintek-dnr.ru^
 ||mintrans.lpr-reg.ru^
@@ -257,7 +256,6 @@
 ||mzdrav.rk.gov.ru^
 ||mzem.rk.gov.ru^
 ||mzlnr.su^
-||mіаіstоk.su^
 ||n.maps.yandex.ru^
 ||nabu-leaks.com^
 ||nabu-leaks.info^
@@ -382,6 +380,7 @@
 ||smi2.ru^
 ||smotrim.ru^
 ||sovminlnr.ru^
+||sovminlnr.su^
 ||sp-rc.ru^
 ||speechkit.yandex.ru^
 ||sportloto.ru^

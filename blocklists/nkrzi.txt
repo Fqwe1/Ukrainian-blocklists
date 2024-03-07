@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2627
+! Total number of filters: 2626
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -1696,7 +1696,6 @@
 ||onews.com.ua^
 ||onkobalkan.com.ua^
 ||onlajnigry.net^
-||online- play-admiral.net^
 ||online-cosmolot.com.ua^
 ||online-kasino-slots.com^
 ||online-kosmolot.com.ua^
