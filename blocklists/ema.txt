@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1730
+! Total number of filters: 1734
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -233,6 +233,7 @@
 ||cash2phone.top^
 ||cash4phone.info^
 ||cash4phone.top^
+||cashaidnetwork.za.com^
 ||cashbox-ua.com^
 ||cashbyphone.top^
 ||cashinphone.top^
@@ -297,6 +298,7 @@
 ||csd.c787888.com^
 ||currency-ukraine.com^
 ||cybe-gos.top^
+||da-tesi.com^
 ||dayprices.shop^
 ||dazzlingcortex.com^
 ||de-gos.top^
@@ -477,6 +479,7 @@
 ||good-store.in.ua^
 ||good.ua-tovary.info^
 ||goodmob.dp.ua^
+||goods.transfer-e08.workers.dev^
 ||goodstore-ua.shop^
 ||goodstore.in.ua^
 ||gopays.in.ua^
@@ -1590,6 +1593,7 @@
 ||ukr-paybox.com^
 ||ukr-poch.me^
 ||ukr-sistempay.com.ua^
+||ukr.reg-dostavka.workers.dev^
 ||ukraine-box.com^
 ||ukraine-furniture.com.ua^
 ||ukraine-payment.com.ua^
