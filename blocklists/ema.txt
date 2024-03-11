@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1737
+! Total number of filters: 1739
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -318,6 +318,7 @@
 ||diyanow.balilikonstruksion.com^
 ||diyanow.myhelp.charity^
 ||dl-gos.top^
+||dnr-service.ru^
 ||doge-earn.com^
 ||dolidka.top^
 ||domopoga-ua.nopersonexty.online^
@@ -327,6 +328,7 @@
 ||dopomoga-ua.online^
 ||dopomoga.newsukrgl.online^
 ||doppolch.site^
+||dostav.do-orolx.workers.dev^
 ||dostavaollp.shop^
 ||dram-satyr.fun^
 ||dram-teatr.art^
