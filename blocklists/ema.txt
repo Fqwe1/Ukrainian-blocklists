@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1739
+! Total number of filters: 1741
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -101,6 +101,7 @@
 ||arri-pay.top^
 ||asia.top-blogs.xyz^
 ||ask-opros.top^
+||atb-bonus.com^
 ||atb-market.space^
 ||atbmarket.life^
 ||atkassa24.top^
@@ -791,6 +792,7 @@
 ||moskassaplus.shop^
 ||mospaidsmarket.top^
 ||motohouseua.com^
+||msneu.com^
 ||msyie0-c2a7.cn^
 ||multichangez.com^
 ||multplex.fun^

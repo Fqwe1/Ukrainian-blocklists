@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2626
+! Total number of filters: 2624
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -2298,8 +2298,6 @@
 ||sygaretylvov.kiev.ua^
 ||systemjackpot.com^
 ||szstakhanov.su^
-||t.me/elfbaruatorg^
-||t.me/joinchat/gnbhb-e4xtszzdly^
 ||tabaco.com.ua^
 ||tabaco.org.ua^
 ||tabaco.pw^
