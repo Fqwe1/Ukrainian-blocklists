@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1745
+! Total number of filters: 1747
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -83,6 +83,7 @@
 ||alphard.com.de^
 ||alyakosenko86.wixsite.com^
 ||amazetto.com.ua^
+||amazonv.shop^
 ||amex-pay.com.ua^
 ||amo-opros.top^
 ||an-gos.top^
@@ -1657,6 +1658,7 @@
 ||uu-quest.xyz^
 ||uuauq.cn^
 ||uz-gos.top^
+||vegas-x-mirror.online^
 ||very-pay.com.ua^
 ||ves-gos.top^
 ||vh20153.hv4.ru^
