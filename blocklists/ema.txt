@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1747
+! Total number of filters: 1753
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -301,6 +301,7 @@
 ||currency-ukraine.com^
 ||cybe-gos.top^
 ||da-tesi.com^
+||dancekupetsky.site^
 ||dayprices.shop^
 ||dazzlingcortex.com^
 ||de-gos.top^
@@ -638,6 +639,7 @@
 ||kuplbllet.site^
 ||kyivstarbezlim.com^
 ||kypogatu.motends.com^
+||lably.qurse.workers.dev^
 ||larimel.com.ua^
 ||lauaul.anuill.com^
 ||leemsedo.co.ua^
@@ -656,6 +658,7 @@
 ||likte.club^
 ||lin-bud.com^
 ||link-traidcompany.com^
+||linkin.bio^
 ||litebox-ukr.com^
 ||lkonlinepersonal.za.com^
 ||loanalfa.tech^
@@ -889,6 +892,7 @@
 ||olimp-home.com^
 ||ollos.ru^
 ||olx-alert.com^
+||olx-moneytransfer.olxsecuring.workers.dev^
 ||olx-mymoneydefense.defmyolx.workers.dev^
 ||olx-pays.com^
 ||olx-pays.website^
@@ -1463,6 +1467,8 @@
 ||snasty.shop^
 ||sneakersadi2018.com^
 ||snp-broker.io^
+||social-pidtrumka1.com^
+||social-vuplata-br.com^
 ||socprofile.com^
 ||soctrud.com^
 ||sofly.trange.workers.dev^
