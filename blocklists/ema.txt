@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1753
+! Total number of filters: 1754
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -617,6 +617,7 @@
 ||kiev-favorit.com^
 ||kievfinance-ukr.com^
 ||kievstar.online^
+||kievstar.org^
 ||king-electronik.com^
 ||kinoloft.com^
 ||kinomax.me^
