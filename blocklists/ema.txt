@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1754
+! Total number of filters: 1756
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -189,6 +189,7 @@
 ||box-service.com.ua^
 ||box.inf.ua^
 ||brainintelligencetraining.com^
+||breepy.gumloe.workers.dev^
 ||brokcomp.com.ua^
 ||brovistave.org^
 ||bui-gos.top^
@@ -1420,6 +1421,7 @@
 ||scooter.club.tilda.ws^
 ||screen-shop.com.ua^
 ||sd-pc.site^
+||seae2.ua-dos.workers.dev^
 ||securedeng.info^
 ||sekret.vipmoney.xyz^
 ||send-pay.com.ua^
