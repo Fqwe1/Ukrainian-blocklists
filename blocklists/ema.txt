@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1757
+! Total number of filters: 1761
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -149,6 +149,7 @@
 ||betxwin.bet^
 ||bezpeka-online-24.su^
 ||bezpekaua.info^
+||bf4f5009.4845c94a05a102c2a2e8e339.workers.dev^
 ||big-partner.kh.ua^
 ||big-uah.top^
 ||bilet.space^
@@ -345,6 +346,7 @@
 ||draw-opros.top^
 ||dsshsh.shop^
 ||dufafaststinen.gq^
+||duiuaheki.com^
 ||e-dopomoga.cc^
 ||e-dopomoga.in^
 ||e-dopomoga.website^
@@ -416,6 +418,7 @@
 ||finance-active.com.ua^
 ||finance-dopomoga.site^
 ||finance-helpya.com^
+||finbet.online^
 ||finbet.org.ua^
 ||finbet.top^
 ||finens.biz^
@@ -822,6 +825,7 @@
 ||nalichkago.online^
 ||nalichkapay.online^
 ||namemo.ucraft.site^
+||nanolook.com^
 ||natthame.com^
 ||nek0samurai.github.io^
 ||nekly.henly.workers.dev^
