@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2282
+! Total number of filters: 2285
 103.11.40.102
 103.224.182.242
 103.224.182.248
@@ -1472,8 +1472,11 @@
 18.193.202.212
 18.197.6.254
 18.208.35.1
+18.239.18.104
 18.239.18.60
 18.239.18.62
+18.239.18.74
+18.239.18.87
 18.239.18.96
 18.239.50.16
 18.239.50.17

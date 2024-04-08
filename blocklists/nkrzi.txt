@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2624
+! Total number of filters: 2625
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -956,6 +956,7 @@
 ||fatboss-casino.ru^
 ||fatcat.pm^
 ||favbet.casino^
+||favbet.com^
 ||favbet.org^
 ||favbet.ro^
 ||favbet111.com^
