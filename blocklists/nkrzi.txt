@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 2625
+! Total number of filters: 2678
 ||0233.info^
 ||0744.live^
 ||0n2paylloftschool.com^
@@ -12,6 +12,8 @@
 ||1303joycasino.com^
 ||1309joycasino.com^
 ||19cej5d6n2.stolichnyy-market.org^
+||1cent.in^
+||1cent.tv^
 ||1dz-vip.expertus.ua^
 ||1gl-vip.expertus.ua^
 ||1k-vip.expertus.ua^
@@ -61,6 +63,7 @@
 ||4cus.net^
 ||4pixel.com.ua^
 ||4starsgames.com^
+||5.argocasino50.com^
 ||5.ivicasino12.com^
 ||51.dp.ua^
 ||5sim.net^
@@ -359,6 +362,7 @@
 ||andrada.com.ua^
 ||anonymbet.co^
 ||antifashist.com^
+||antifriz.tv^
 ||antr-adm.ru^
 ||apelsin.ck.ua^
 ||aplav.casino^
@@ -438,6 +442,7 @@
 ||betchan-exclusive.com^
 ||betchan.com^
 ||betchaser.com^
+||betchplp.xyz^
 ||betcityru.com^
 ||betclic.com^
 ||betdukes.com^
@@ -489,6 +494,7 @@
 ||bigsport-plus.com.ua^
 ||bigsport-plus.com^
 ||bigthunderslots.com^
+||billingtv.net^
 ||billioncasino.com^
 ||billionvegas.com^
 ||bilucky.com^
@@ -500,6 +506,7 @@
 ||bit-spirt.online^
 ||bitcasino.io^
 ||bitcoincasino.io^
+||bitcoincasino.us^
 ||bitdice.me^
 ||bitkingz.com^
 ||bitsler.com^
@@ -570,6 +577,7 @@
 ||candy1.casino^
 ||capital.in.ua^
 ||captainspins.com^
+||cardsharingserver.tv^
 ||cashalot.bet^
 ||cashalot1.bet^
 ||cashier.partycasino.com^
@@ -611,6 +619,7 @@
 ||casino.nj.partycasino.com^
 ||casino.partycasino.com^
 ||casino.partypoker.com^
+||casino.redkings.com^
 ||casino.slotjar.com^
 ||casino.williamhill.com^
 ||casino1.com.ua^
@@ -681,6 +690,10 @@
 ||cazinovip.org^
 ||cazinoz-pmc.xyz^
 ||cbet.gg^
+||cbilling.biz^
+||cbilling.in^
+||cbilling.pw^
+||cbillingtv.net^
 ||cdn.ottg.tv^
 ||champblack.com^
 ||champion-play.tech^
@@ -733,6 +746,7 @@
 ||compliment2019.biz^
 ||contact.rationalwebservices.com^
 ||contactpay.com^
+||contented.ru^
 ||cookiecasino.com^
 ||cosmo.kiev.ua^
 ||cosmo.lot-free.com^
@@ -872,6 +886,7 @@
 ||easyslots.com^
 ||eat-sleep-bet.com^
 ||econri.org^
+||edem.tv^
 ||edemtv.me^
 ||edinoezerno.allatra.org^
 ||edirshkoly.mcfr.ua^
@@ -910,6 +925,7 @@
 ||energycasino.com^
 ||energywin.com^
 ||engine.xbet.ag^
+||epg.fox-tv.fun^
 ||epidtrumka.online^
 ||epsiholog.mcfr.ua^
 ||epsmm.com^
@@ -923,6 +939,7 @@
 ||eurogame.club^
 ||europacasino.com^
 ||europalace.com^
+||euslot.com^
 ||everest-bet.com^
 ||everumcasino.com^
 ||everumcasino.eu^
@@ -1009,6 +1026,8 @@
 ||fortunelegends.com^
 ||fortunepanda.com^
 ||fortunetowin.com^
+||fox-tv.fun^
+||foxford.ru^
 ||foxline.com.ua^
 ||fpdnr.ru^
 ||fplnr.org^
@@ -1077,6 +1096,7 @@
 ||gbett1.net^
 ||gd-pharm.pro^
 ||gdaycasino.com^
+||geekbrains.com.ua^
 ||genesiscasino.com^
 ||geopolitika.ru^
 ||getlucky.com^
@@ -1121,6 +1141,7 @@
 ||goldfishka.website^
 ||goldfishka138.com^
 ||goldfishka146.com^
+||goldfishka68.com^
 ||goliathcasino.com^
 ||golos.eu^
 ||golos.ua^
@@ -1237,13 +1258,17 @@
 ||ilovaisk.ugletele.com^
 ||ilucki.com^
 ||in-stream.com.ua^
+||info.fox-tv.fun^
 ||infovestnik.blogspot.com^
 ||instantpay-casino.com^
 ||instantpay-casino3.com^
 ||instantplayusd.casinomidas.com^
 ||intertops.eu^
 ||ints.net^
+||ip-tv.club^
+||iptv-ru.com^
 ||irshansk-rada.com.ua^
+||iseetv.net^
 ||itcs.net.ua^
 ||itres.ru^
 ||ivicasino.com^
@@ -1284,6 +1309,7 @@
 ||jetcasino201.com^
 ||jetcasino400.com^
 ||jetcasino900.com^
+||jinopro.net^
 ||job-sbu.org^
 ||joefortuneonlinepokies.com^
 ||joker-win.tv^
@@ -1417,7 +1443,9 @@
 ||licensegetonline.com.ua^
 ||lifedon.com.ua^
 ||lifelug.su^
+||lightiptv.me^
 ||like-social.net^
+||likecentre.ru^
 ||likesid.com^
 ||likos.com.ua^
 ||limewin.com^
@@ -1534,6 +1562,7 @@
 ||melbet001.com^
 ||melbetorgecyy.top^
 ||melbetorvsyls.top^
+||melord.net^
 ||member.casinoclassic.org^
 ||members.bet365.com^
 ||menr.in.ua^
@@ -1558,6 +1587,7 @@
 ||mklnr.su^
 ||mobile.marathonbet.com^
 ||mobile2.gameassists.co.uk^
+||mobile3.gameassists.co.uk^
 ||mobilebet.com^
 ||mobilemillions.co.uk^
 ||molfartobacco.com.ua^
@@ -1596,11 +1626,13 @@
 ||mrking.fun^
 ||mrplay.com^
 ||mrsking.site^
+||mstcvfvcvb.com^
 ||mu-lnr.su^
 ||mummysgold.com^
 ||mutagen.com.ua^
 ||mvs.gov.od.ua^
 ||mvsgov.com.ua^
+||my-trinity.ru^
 ||my.b2bjewelry.global^
 ||myaccount.betfair.com^
 ||myaccount.partypoker.com^
@@ -1632,6 +1664,7 @@
 ||nemez1da.ru^
 ||neptuneplay.com^
 ||netgameslots.org^
+||netology.ru^
 ||netpaynew.shop^
 ||netpaytime.shop^
 ||netpaytop.shop^
@@ -1657,6 +1690,7 @@
 ||nordi-c.com^
 ||nordiscasino.com^
 ||northcasino.com^
+||novakid.ru^
 ||novoaz-adm.3dn.ru^
 ||novorossia.su^
 ||novorossia.vision^
@@ -1721,11 +1755,13 @@
 ||otsos.tv^
 ||ottg.tv^
 ||ottglanz.tv^
+||ottplay.com^
 ||ou-edopomoga.com^
 ||ou-edopomoga.net^
 ||ovitoonscasino.com^
 ||ozon.ru^
 ||ozwincasino.com^
+||pa.fox-tv.fun^
 ||pa.hollywoodcasino.com^
 ||paf.com^
 ||pai-pomoga.me^
@@ -1769,6 +1805,7 @@
 ||platinumclubvip.com^
 ||platinumplaycasino.com^
 ||platinumspins.win^
+||play-777.com^
 ||play-cosmolot.com^
 ||play-fortuna.com.ua^
 ||play-joker571.co.ua^
@@ -1856,6 +1893,7 @@
 ||portmone24.com^
 ||postdonbass.com^
 ||powerspins.com^
+||practicum.yandex.ru^
 ||praisecasino.com^
 ||prava-avto.site^
 ||pravda-ua.com^
@@ -1868,6 +1906,7 @@
 ||premiumdrinks.store^
 ||premiumspirt.tilda.ws^
 ||primaplay.eu^
+||primedice.com^
 ||prisoner.com.ua^
 ||privat24ua.buzz^
 ||privat24ua.shop^
@@ -1941,6 +1980,7 @@
 ||redstarbets11.eu^
 ||redstarcasino.com.ua^
 ||redstarcasino.eu^
+||redstarcasino20.eu^
 ||redstarcasino30.eu^
 ||redstarpoker.com.ua^
 ||redstarpoker.com^
@@ -1999,6 +2039,7 @@
 ||ru.888poker247.com^
 ||ru.888pokerweek.com^
 ||ru.all-smm.com^
+||ru.hexlet.io^
 ||ru.leonbets.net^
 ||ru.mrpopular.net^
 ||ru.stripchat.com^
@@ -2019,6 +2060,7 @@
 ||samosacasino.com^
 ||sankiv.in.ua^
 ||santi.bet^
+||savelife.pw^
 ||saving4322.com^
 ||saxo-bank.net^
 ||sbfplay99.com^
@@ -2056,6 +2098,7 @@
 ||shivakiss.net^
 ||shkolaw.in.ua^
 ||shop-alko.com.ua^
+||shop.fox-tv.fun^
 ||shopspirt.com.ua^
 ||sicario.club^
 ||sicklist.com.ua^
@@ -2081,7 +2124,9 @@
 ||simplecasino.com^
 ||skelet.info^
 ||skgazeta.su^
+||skillbox.com.ua^
 ||skolcasino.com^
+||skyeng.ua^
 ||skygames.us^
 ||slabakam.net^
 ||slava-club.com^
@@ -2354,6 +2399,7 @@
 ||top-modals.com^
 ||topfarma.com.ua^
 ||topikosik.fun^
+||topiptv.info^
 ||topukcasino.com^
 ||torez24.ru^
 ||tppdnr.ru^
@@ -2377,6 +2423,8 @@
 ||tutunok.shop^
 ||tutunok.top^
 ||tvkino.com.ua^
+||tvlider.net^
+||tvoetv.in.ua^
 ||twin.com^
 ||u24donate.org^
 ||ua-edopomoga.com^
@@ -2406,6 +2454,7 @@
 ||uasiga.store^
 ||uasocial-viplata.company^
 ||uaspirtmarket.com^
+||uchi.ru^
 ||udostawka.ink^
 ||ukr-insider.news^
 ||ukr-ontime.com.ua^
@@ -2414,6 +2463,7 @@
 ||ukr-spirt.store^
 ||ukraine-goldcup345.kh.ua^
 ||ukraine-inc.info^
+||ukraine-war.pw^
 ||ukrcasino.com.ua^
 ||ukrdoping.com.ua^
 ||ukrdoping.com^
@@ -2478,6 +2528,7 @@
 ||vip-casinos.net^
 ||vip-cazinos.club^
 ||vipcasino.com.ua^
+||vipdrive.net^
 ||viperspin.com^
 ||vipforward.pm^
 ||vipgame.io^
@@ -2569,6 +2620,7 @@
 ||worldpaymaster.icu^
 ||worldpayplus.icu^
 ||wulkan-777.com^
+||x-bet.co^
 ||x-web.com.ua^
 ||x100000.com^
 ||x24bet.com^
@@ -2597,6 +2649,7 @@
 ||zarul.avtoshkola.store^
 ||zavod-jitomir.com.ua^
 ||zavod-plus.com.ua^
+||zedom.net^
 ||zen.bet^
 ||zenbetting.com^
 ||zencasino.com^
