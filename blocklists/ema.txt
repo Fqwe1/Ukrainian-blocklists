@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1765
+! Total number of filters: 1766
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -304,6 +304,7 @@
 ||cybe-gos.top^
 ||da-tesi.com^
 ||dancekupetsky.site^
+||dav-workers.superbagag.workers.dev^
 ||dayprices.shop^
 ||dazzlingcortex.com^
 ||de-gos.top^
