@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1766
+! Total number of filters: 1767
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -158,6 +158,7 @@
 ||billetshot.top^
 ||bio.link^
 ||bistrie-viplati.club^
+||bit8363.buzz^
 ||bitcoin-zuba.ga^
 ||bitfinecc.com^
 ||blago-kovel.shop^
