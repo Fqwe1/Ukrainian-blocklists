@@ -2,7 +2,7 @@
 ! Source: https://www.ema.com.ua/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 1773
+! Total number of filters: 1775
 ||0nkassashop.shop^
 ||0nlinepaidlife.shop^
 ||0nlykasatop.shop^
@@ -207,6 +207,7 @@
 ||buylanmobi.in.ua^
 ||buymiui.com.ua^
 ||buyshop.in.ua^
+||buyua.olx-shop.workers.dev^
 ||bvs-rabota.net^
 ||byurodp.gq^
 ||ca-jsc-credit-agricole-bank-ukraine.ru.aptoide.com^
@@ -1564,6 +1565,7 @@
 ||theathre-ukraine.fun^
 ||theathreua.fun^
 ||theatre-ua.fun^
+||theatrelive.online^
 ||theatresatir.fun^
 ||thefiniko.com^
 ||thoughtfulwear.top^
