@@ -2,7 +2,7 @@
 ! Source: https://uablocklist.com/
 ! Homepage: https://github.com/Fqwe1/Ukrainian-blocklists
 ! License: https://github.com/Fqwe1/Ukrainian-blocklists/blob/main/LICENSE
-! Total number of filters: 554
+! Total number of filters: 545
 ||100kwt.com^
 ||1cupis.ru^
 ||1prime.ru^
@@ -17,10 +17,7 @@
 ||2gis.ru^
 ||2gis.ua^
 ||82.fskn.ru^
-||82.mchs.gov.ru^
-||82.mvd.ru^
-||82.rospotrebnadzor.ru^
-||82.мвд.рф^
+||82reg.roszdravnadzor.ru^
 ||888.ru^
 ||abet.ru^
 ||academyit.ru^
@@ -30,7 +27,6 @@
 ||agklnr.su^
 ||agoravox.tv^
 ||agroprom.msdnr.ru^
-||alchevsk.su^
 ||algoritmika.org^
 ||altaipalace.net^
 ||anna-news.info^
@@ -50,6 +46,7 @@
 ||audience.yandex.ua^
 ||auto.ru^
 ||avia.yandex.ru^
+||avia.yandex.ua^
 ||baltbet.ru^
 ||banking.gdcert.com^
 ||banking.guarantee.ru^
@@ -89,17 +86,16 @@
 ||crimea.izbirkom.ru^
 ||crimea.mk.ru^
 ||crimea.ria.ru^
-||crimea.ru^
 ||crimea24.tv^
 ||crimea24tv.ru^
 ||dan-news.info^
+||delivery.yandex.ru^
 ||denis-pushilin.info^
 ||denis-pushilin.ru^
 ||digitalrussia.tv^
 ||direct.yandex.ru^
 ||direct.yandex.ua^
 ||disk.yandex.ru^
-||disk.yandex.ua^
 ||djankoiadm.ru^
 ||dnipress.com^
 ||dnmchs.ru^
@@ -151,9 +147,6 @@
 ||golospravdy.ru^
 ||gorlovka-news.su^
 ||gorlovka.today^
-||gorod-lugansk.com^
-||gosnadzorlnr.ru^
-||gosrezervlnr.su^
 ||gplnr.su^
 ||group-ib.ru^
 ||gt-news.info^
@@ -188,7 +181,6 @@
 ||kaspersky.ru^
 ||kassa.yandex.ru^
 ||katyusha.tv^
-||kaznalnr.ru^
 ||kcpn.info^
 ||keeper.webmoney.ru^
 ||keeper.wmtransfer.com^
@@ -197,10 +189,13 @@
 ||kianews.com.ua^
 ||kianews24.ru^
 ||kiev.coddyschool.com^
+||kinopoisk.ru^
 ||komtv.org^
+||krasnyluch.su^
 ||krtech.ru^
 ||krvesna.rk.gov.ru^
 ||krym.fas.gov.ru^
+||ktcr.lprreg.ru^
 ||lapki.live^
 ||lenta.ru^
 ||leon.ru^
@@ -216,33 +211,39 @@
 ||lug24.ru^
 ||luga1news.ru^
 ||lugansk-online.su^
+||lugansk.online^
 ||lugansk.site^
+||lutugino.su^
 ||m24.ru^
 ||mail.ru^
 ||mail.wmid.com^
 ||mail.yandex.ua^
 ||marathonbet.ru^
-||market.yandex.ru^
 ||market.yandex.ua^
+||mchs.rk.gov.ru^
+||meco.rk.gov.ru^
 ||media-xyz.com^
 ||megasoft-ltd.ru^
 ||megatransov.net^
-||melbet.com^
 ||melbet.ru^
 ||mer.govdnr.ru^
+||mer.lpr-reg.ru^
 ||merchant.webmoney.ru^
 ||merchant.wmtransfer.com^
+||merlnr.su^
 ||metrika.yandex.ru^
-||metrika.yandex.ua^
 ||metro.yandex.ru^
 ||metro.yandex.ua^
 ||mgb-dnr.ru^
 ||mgblnr.org^
 ||mgblnr.su^
+||mgsn.rk.gov.ru^
 ||miaistok.su^
 ||mil-lnr.info^
 ||mincult.govdnr.ru^
+||minek.rk.gov.ru^
 ||minfin.lprreg.ru^
+||minfin.rk.gov.ru^
 ||minfindnr.ru^
 ||minfinlnr.su^
 ||minfo.rk.gov.ru^
@@ -260,7 +261,6 @@
 ||mintrud.lpr-reg.ru^
 ||minzdrav.govdnr.ru^
 ||minzdrav.lpr-reg.ru^
-||mizo.lpr-reg.ru^
 ||mk.lpr-reg.ru^
 ||mk.ru^
 ||mkult.rk.gov.ru^
@@ -272,6 +272,7 @@
 ||mosfm.com^
 ||mostbet.ru^
 ||mozaika.dn.ua^
+||mpr.lpr-reg.ru^
 ||mprlnr.su^
 ||mprom.rk.gov.ru^
 ||mpt.lpr-reg.ru^
@@ -281,21 +282,16 @@
 ||msk.top-academy.ru^
 ||mskagency.ru^
 ||mslnr.su^
-||mtop.rk.gov.ru^
-||mtrans.rk.gov.ru^
-||mtrud.rk.gov.ru^
 ||mtspdnr.ru^
 ||mtur.rk.gov.ru^
-||mulnr.su^
 ||multvkino.tlum.ru^
 ||music.yandex.ua^
+||must.rk.gov.ru^
 ||mvddnr.ru^
-||mvdlnr.ru^
 ||mvdlnr.su^
 ||mzdrav.rk.gov.ru^
 ||mzem.rk.gov.ru^
 ||mzhkh.rk.gov.ru^
-||mzlnr.su^
 ||n.maps.yandex.ru^
 ||nabu-leaks.com^
 ||nabu-leaks.info^
@@ -320,7 +316,6 @@
 ||nomadcasino.com^
 ||novopressa.ru^
 ||novorosinform.org^
-||novoross.info^
 ||novorossia-tv.ru^
 ||novorossia.today^
 ||novorossiatv.com^
@@ -332,7 +327,6 @@
 ||ntvplus.tv^
 ||ok.ru^
 ||okkupatsiya.net^
-||olimp.bet^
 ||ombudsmandnr.ru^
 ||on-line.lg.ua^
 ||onmedia.io^
@@ -350,7 +344,7 @@
 ||passport.webmoney.ru^
 ||passport.yandex.ua^
 ||paymaster.ua^
-||pflnr.su^
+||pdd.yandex.ru^
 ||pikinform.ru^
 ||pm.ua^
 ||pobeda.tv^
@@ -372,7 +366,6 @@
 ||qiwiguide.ru^
 ||qiwitrue.dev^
 ||r82.fss.ru^
-||r82.fssprus.ru^
 ||rabota.yandex.ru^
 ||rabota.yandex.ua^
 ||rabotavtaxi.pro^
@@ -383,6 +376,7 @@
 ||rambler.ru^
 ||rbc.ru^
 ||realty.ria.ru^
+||realty.yandex.ru^
 ||reporter-crimea.ru^
 ||republic-tv.ru^
 ||ria.ru^
@@ -400,7 +394,6 @@
 ||rt.com^
 ||rtr-planeta.com^
 ||rumedia24.com^
-||ruscrimea.ru^
 ||russia.tv^
 ||russian.oplot.tv^
 ||ruxpert.ru^
@@ -415,6 +408,7 @@
 ||sharij.net^
 ||sharij.online^
 ||simadm.ru^
+||site.yandex.ua^
 ||skillbox.ru^
 ||skillfactory.ru^
 ||sky.pro^
@@ -423,7 +417,6 @@
 ||skyeng.ru^
 ||skysmart.ru^
 ||slavasev.ru^
-||slavlnr.su^
 ||slovodel.com^
 ||smdnr.ru^
 ||smi2.ru^
@@ -433,7 +426,6 @@
 ||sovminlnr.su^
 ||sp-rc.ru^
 ||sportloto.ru^
-||sprav.yandex.ru^
 ||sprav.yandex.ua^
 ||sputniknews.com^
 ||stakhanov.su^
@@ -451,26 +443,22 @@
 ||svk-portal.su^
 ||svpressa.ru^
 ||tass.ru^
-||taxi-yandex.com.ua^
-||taxi-yandex.kiev.ua^
 ||taxi.yandex.ru^
 ||teamplay.qiwi.com^
 ||telecafe.ru^
-||telephony.yandex.ru^
 ||telesputnik.ru^
 ||tennisi.bet^
+||tfomsrk.ru^
 ||thomaldrin.worldpress.com^
 ||tk-union.tv^
 ||tnt-online.ru^
-||translate.yandex.ru^
-||travel.yandex.ru^
 ||tribunal.dnr-online.ru^
 ||trk-luch.ru^
 ||trkekran.mybb.ru^
 ||trkmillet.ru^
 ||trudslava.su^
+||tsiklnr.su^
 ||tv.rbc.ru^
-||tv.yandex.ru^
 ||tv.yandex.ua^
 ||tvc.rbc.ru^
 ||tvc.ru^
@@ -480,6 +468,7 @@
 ||ukraina.ru^
 ||ukraine.ru^
 ||universe.qiwi.com^
+||usd.krm.sudrf.ru^
 ||utro.ru^
 ||uzhhorod.today^
 ||vedomosti.ru^
@@ -496,6 +485,7 @@
 ||voltbet.ru^
 ||vperedlnr.su^
 ||vremya.tv^
+||vs.krm.sudrf.ru^
 ||vsednr.ru^
 ||wbc.com.ru^
 ||web-moneta.com^
@@ -532,11 +522,11 @@
 ||xxiveklnr.su^
 ||ya-taxi.bitrix24.site^
 ||yalta-tv.ru^
+||yalta.rk.gov.ru^
 ||yaltatv.ru^
 ||yandex.biz.ua^
 ||yandex.ru^
-||yandex.ua^
-||yandexdatafactory.com^
+||yandextaksiua.com.ua^
 ||yandextaxi.com.ua^
 ||yandextaxi.kiev.ua^
 ||yataxi.com.ua^
@@ -549,6 +539,7 @@
 ||zenit.win^
 ||zerocoder.ru^
 ||антрацитовский-вестник.рф^
+||главалнр.рф^
 ||знаюкрым.рф^
 ||мвдднр.рус^
 ||мгблнр.орг^
